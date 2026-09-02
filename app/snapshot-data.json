@@ -1,0 +1,2816 @@
+{
+  "snapshotDate": "2026-09-02",
+  "methodology": "Official/source-page Open Graph, Twitter card, or first paper/project figure. Records without a suitable source-owned image use a generated source card; search-result thumbnails and third-party screenshot services are excluded.",
+  "records": {
+    "cv_2022_2026_egodata::Ego4D": {
+      "imageUrl": "/snapshots/a4f181ce51fcd5ff.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2022/html/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf"
+    },
+    "cv_2022_2026_egodata::HOI4D": {
+      "imageUrl": "/snapshots/b87a0479a2044e89.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2022/html/Liu_HOI4D_A_4D_Egocentric_Dataset_for_Category-Level_Human-Object_Interaction_CVPR_2022_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_HOI4D_A_4D_Egocentric_Dataset_for_Category-Level_Human-Object_Interaction_CVPR_2022_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Egocentric Prediction of Action Target in 3D/EgoPAT3D": {
+      "imageUrl": "/snapshots/db8fd072334e040c.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2022/html/Li_Egocentric_Prediction_of_Action_Target_in_3D_CVPR_2022_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Egocentric_Prediction_of_Action_Target_in_3D_CVPR_2022_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Assembly101": {
+      "imageUrl": "/snapshots/c146512493ec5270.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2022/html/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Scene-Aware Egocentric 3D Human Pose Estimation": {
+      "imageUrl": "/snapshots/bb9aa46be05870f4.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Scene-Aware_Egocentric_3D_Human_Pose_Estimation_CVPR_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Scene-Aware_Egocentric_3D_Human_Pose_Estimation_CVPR_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Egocentric Audio-Visual Object Localization": {
+      "imageUrl": "/snapshots/cce9c2de2def59ff.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Egocentric_Audio-Visual_Object_Localization_CVPR_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Egocentric_Audio-Visual_Object_Localization_CVPR_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Egocentric Video Task Translation/EgoT2": {
+      "imageUrl": "/snapshots/ec0d59b21cd89759.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2023/html/Xue_Egocentric_Video_Task_Translation_CVPR_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_Egocentric_Video_Task_Translation_CVPR_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Chat2Map": {
+      "imageUrl": "/snapshots/8c0fbfec312e6373.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2023/html/Majumder_Chat2Map_Efficient_Scene_Mapping_From_Multi-Ego_Conversations_CVPR_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2023/papers/Majumder_Chat2Map_Efficient_Scene_Mapping_From_Multi-Ego_Conversations_CVPR_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Ego-Exo4D": {
+      "imageUrl": "/snapshots/880268b2533919ae.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2024/html/Grauman_Ego-Exo4D_Understanding_Skilled_Human_Activity_from_First-_and_Third-Person_Perspectives_CVPR_2024_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2024/papers/Grauman_Ego-Exo4D_Understanding_Skilled_Human_Activity_from_First-_and_Third-Person_Perspectives_CVPR_2024_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoExoLearn": {
+      "imageUrl": "/snapshots/1da3f6b78ceef82c.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoGen": {
+      "imageUrl": "/snapshots/2517a393c9e70736.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2024/html/Li_EgoGen_An_Egocentric_Synthetic_Data_Generator_CVPR_2024_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_EgoGen_An_Egocentric_Synthetic_Data_Generator_CVPR_2024_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoThink": {
+      "imageUrl": "/snapshots/0a7df94dbf53becd.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_EgoThink_Evaluating_First-Person_Perspective_Thinking_Capability_of_Vision-Language_Models_CVPR_2024_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_EgoThink_Evaluating_First-Person_Perspective_Thinking_Capability_of_Vision-Language_Models_CVPR_2024_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Retrieval-Augmented Egocentric Video Captioning/EgoInstructor": {
+      "imageUrl": "/snapshots/13edae09118a26af.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Retrieval-Augmented_Egocentric_Video_Captioning_CVPR_2024_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Retrieval-Augmented_Egocentric_Video_Captioning_CVPR_2024_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoPack": {
+      "imageUrl": "/snapshots/142c73d722aed0ae.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2024/html/Peirone_A_Backpack_Full_of_Skills_Egocentric_Video_Understanding_with_Diverse_CVPR_2024_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2024/papers/Peirone_A_Backpack_Full_of_Skills_Egocentric_Video_Understanding_with_Diverse_CVPR_2024_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Learning Spatial Features from Audio-Visual Correspondence": {
+      "imageUrl": "/snapshots/d2188df2e551f0bd.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2024/html/Majumder_Learning_Spatial_Features_from_Audio-Visual_Correspondence_in_Egocentric_Videos_CVPR_2024_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2024/papers/Majumder_Learning_Spatial_Features_from_Audio-Visual_Correspondence_in_Egocentric_Videos_CVPR_2024_paper.pdf"
+    },
+    "cv_2022_2026_egodata::HOT3D": {
+      "imageUrl": "/snapshots/f5ae5c1c80d26f9c.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2025/html/Banerjee_HOT3D_Hand_and_Object_Tracking_in_3D_from_Egocentric_Multi-View_CVPR_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2025/papers/Banerjee_HOT3D_Hand_and_Object_Tracking_in_3D_from_Egocentric_Multi-View_CVPR_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::HD-EPIC": {
+      "imageUrl": "/snapshots/2670a5781bc86aa2.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2025/html/Perrett_HD-EPIC_A_Highly-Detailed_Egocentric_Video_Dataset_CVPR_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2025/papers/Perrett_HD-EPIC_A_Highly-Detailed_Egocentric_Video_Dataset_CVPR_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoPressure": {
+      "imageUrl": "/snapshots/7ec6fc7279d25227.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_EgoPressure_A_Dataset_for_Hand_Pressure_and_Pose_Estimation_in_CVPR_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_EgoPressure_A_Dataset_for_Hand_Pressure_and_Pose_Estimation_in_CVPR_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoLife/EgoButler": {
+      "imageUrl": "/snapshots/4e776a69f17a0156.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2025/html/Yang_EgoLife_Towards_Egocentric_Life_Assistant_CVPR_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_EgoLife_Towards_Egocentric_Life_Assistant_CVPR_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoLM": {
+      "imageUrl": "/snapshots/8e70f76d125991c5.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2025/html/Hong_EgoLM_Multi-Modal_Language_Model_of_Egocentric_Motions_CVPR_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hong_EgoLM_Multi-Modal_Language_Model_of_Egocentric_Motions_CVPR_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoAllo": {
+      "imageUrl": "/snapshots/a61e15377d8fe1d6.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2025/html/Yi_Estimating_Body_and_Hand_Motion_in_an_Ego-sensed_World_CVPR_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yi_Estimating_Body_and_Hand_Motion_in_an_Ego-sensed_World_CVPR_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::TASTE-Rob": {
+      "imageUrl": "/snapshots/67dbb99c719958ae.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_TASTE-Rob_Advancing_Video_Generation_of_Task-Oriented_Hand-Object_Interaction_for_Generalizable_CVPR_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_TASTE-Rob_Advancing_Video_Generation_of_Task-Oriented_Hand-Object_Interaction_for_Generalizable_CVPR_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::DIV-FF": {
+      "imageUrl": "/snapshots/75d7107aae1c6db5.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2025/html/Mur-Labadia_DIV-FF_Dynamic_Image-Video_Feature_Fields_For_Environment_Understanding_in_Egocentric_CVPR_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2025/papers/Mur-Labadia_DIV-FF_Dynamic_Image-Video_Feature_Fields_For_Environment_Understanding_in_Egocentric_CVPR_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::UniDex": {
+      "imageUrl": "/snapshots/2cce491e69d903e3.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Ego-1K": {
+      "imageUrl": "/snapshots/761ad9b13c7b8ca9.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Ego-1K_-_A_Large-Scale_Multiview_Video_Dataset_for_Egocentric_Vision_CVPR_2026_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_Ego-1K_-_A_Large-Scale_Multiview_Video_Dataset_for_Egocentric_Vision_CVPR_2026_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoProx": {
+      "imageUrl": "/snapshots/8fdc55043f0a7680.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_EgoProx_Evaluating_MLLMs_on_Egocentric_3D_Proximity_Reasoning_Across_a_CVPR_2026_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_EgoProx_Evaluating_MLLMs_on_Egocentric_3D_Proximity_Reasoning_Across_a_CVPR_2026_paper.pdf"
+    },
+    "cv_2022_2026_egodata::MyEgo/Ego-Grounding": {
+      "imageUrl": "/snapshots/47bb15e768076cb1.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_Ego-Grounding_for_Personalized_Question-Answering_in_Egocentric_Videos_CVPR_2026_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2026/papers/Xiao_Ego-Grounding_for_Personalized_Question-Answering_in_Egocentric_Videos_CVPR_2026_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Minerva-Ego": {
+      "imageUrl": "/snapshots/ef0a1e0c17564811.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2026/html/Nagrani_Minerva-Ego_Spatiotemporal_Hints_for_Egocentric_Video_Understanding_CVPR_2026_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2026/papers/Nagrani_Minerva-Ego_Spatiotemporal_Hints_for_Egocentric_Video_Understanding_CVPR_2026_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoControl": {
+      "imageUrl": "/snapshots/efc2aa0cf9414be1.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2026/html/Pallotta_EgoControl_Controllable_Egocentric_Video_Generation_via_3D_Full-Body_Poses_CVPR_2026_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2026/papers/Pallotta_EgoControl_Controllable_Egocentric_Video_Generation_via_3D_Full-Body_Poses_CVPR_2026_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoPoseFormer v2": {
+      "imageUrl": "/snapshots/218ab30a5530c42a.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_EgoPoseFormer_v2_Accurate_Egocentric_Human_Motion_Estimation_for_ARVR_CVPR_2026_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_EgoPoseFormer_v2_Accurate_Egocentric_Human_Motion_Estimation_for_ARVR_CVPR_2026_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Aria Digital Twin": {
+      "imageUrl": "/snapshots/2642dc7165f43a5c.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Aria_Digital_Twin_A_New_Benchmark_Dataset_for_Egocentric_3D_ICCV_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2023/papers/Pan_Aria_Digital_Twin_A_New_Benchmark_Dataset_for_Egocentric_3D_ICCV_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::HoloAssist": {
+      "imageUrl": "/snapshots/e79c838f3016d81c.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2023/html/Wang_HoloAssist_an_Egocentric_Human_Interaction_Dataset_for_Interactive_AI_Assistants_ICCV_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_HoloAssist_an_Egocentric_Human_Interaction_Dataset_for_Interactive_AI_Assistants_ICCV_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Ego-Humans/EgoFormer": {
+      "imageUrl": "/snapshots/3356a3917210f9eb.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2023/html/Khirodkar_Ego-Humans_An_Ego-Centric_3D_Multi-Human_Benchmark_ICCV_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2023/papers/Khirodkar_Ego-Humans_An_Ego-Centric_3D_Multi-Human_Benchmark_ICCV_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoObjects": {
+      "imageUrl": "/snapshots/a2fcd151a0841bae.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_EgoObjects_A_Large-Scale_Egocentric_Dataset_for_Fine-Grained_Object_Understanding_ICCV_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_EgoObjects_A_Large-Scale_Egocentric_Dataset_for_Fine-Grained_Object_Understanding_ICCV_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoTV": {
+      "imageUrl": "/snapshots/29fcbc1dc68330ac.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2023/html/Hazra_EgoTV_Egocentric_Task_Verification_from_Natural_Language_Task_Descriptions_ICCV_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2023/papers/Hazra_EgoTV_Egocentric_Task_Verification_from_Natural_Language_Task_Descriptions_ICCV_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoPCA": {
+      "imageUrl": "/snapshots/15bfc589662b71ad.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2023/html/Xu_EgoPCA_A_New_Framework_for_Egocentric_Hand-Object_Interaction_Understanding_ICCV_2023_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_EgoPCA_A_New_Framework_for_Egocentric_Hand-Object_Interaction_Understanding_ICCV_2023_paper.pdf"
+    },
+    "cv_2022_2026_egodata::InterVLA/Perceiving and Acting in First-Person": {
+      "imageUrl": "/snapshots/f2b61586a1ab9699.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2025/html/Xu_Perceiving_and_Acting_in_First-Person_A_Dataset_and_Benchmark_for_ICCV_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Perceiving_and_Acting_in_First-Person_A_Dataset_and_Benchmark_for_ICCV_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoM2P": {
+      "imageUrl": "/snapshots/1d0b4ddbdbab3bfc.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2025/html/Li_EgoM2P_Egocentric_Multimodal_Multitask_Pretraining_ICCV_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2025/papers/Li_EgoM2P_Egocentric_Multimodal_Multitask_Pretraining_ICCV_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoIntention/Reason-to-Ground": {
+      "imageUrl": "/snapshots/02731f9551721fa1.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Visual_Intention_Grounding_for_Egocentric_Assistants_ICCV_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Visual_Intention_Grounding_for_Egocentric_Assistants_ICCV_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Ego4View-Syn/Ego4View-RW": {
+      "imageUrl": "/snapshots/4c4af5beabb612c6.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2025/html/Akada_Bring_Your_Rear_Cameras_for_Egocentric_3D_Human_Pose_Estimation_ICCV_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2025/papers/Akada_Bring_Your_Rear_Cameras_for_Egocentric_3D_Human_Pose_Estimation_ICCV_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Embodied VideoAgent": {
+      "imageUrl": "/snapshots/869eb44843f04f98.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2025/html/Fan_Embodied_VideoAgent_Persistent_Memory_from_Egocentric_Videos_and_Embodied_Sensors_ICCV_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2025/papers/Fan_Embodied_VideoAgent_Persistent_Memory_from_Egocentric_Videos_and_Embodied_Sensors_ICCV_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Learning Precise Affordances from Egocentric Videos": {
+      "imageUrl": "/snapshots/bb2db9ffd609ba3e.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2025/html/Li_Learning_Precise_Affordances_from_Egocentric_Videos_for_Robotic_Manipulation_ICCV_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Learning_Precise_Affordances_from_Egocentric_Videos_for_Robotic_Manipulation_ICCV_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::LookOut/Aria Navigation Dataset": {
+      "imageUrl": "/snapshots/7283bdc35e6536f3.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2025/html/Pan_LookOut_Real-World_Humanoid_Egocentric_Navigation_ICCV_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2025/papers/Pan_LookOut_Real-World_Humanoid_Egocentric_Navigation_ICCV_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::ObjectRelator/HANDAL-X": {
+      "imageUrl": "/snapshots/746355088722d711.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2025/html/Fu_ObjectRelator_Enabling_Cross-View_Object_Relation_Understanding_Across_Ego-Centric_and_Exo-Centric_ICCV_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2025/papers/Fu_ObjectRelator_Enabling_Cross-View_Object_Relation_Understanding_Across_Ego-Centric_and_Exo-Centric_ICCV_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::Head2Body": {
+      "imageUrl": "/snapshots/9415291836527af0.webp",
+      "pageUrl": "https://openaccess.thecvf.com/content/ICCV2025/html/Tran_Head2Body_Body_Pose_Generation_from_Multi-sensory_Head-mounted_Inputs_ICCV_2025_paper.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://openaccess.thecvf.com/content/ICCV2025/papers/Tran_Head2Body_Body_Pose_Generation_from_Multi-sensory_Head-mounted_Inputs_ICCV_2025_paper.pdf"
+    },
+    "cv_2022_2026_egodata::EgoBody": {
+      "imageUrl": "/snapshots/7c37f2b3dc334de1.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4963_ECCV_2022_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660176.pdf"
+    },
+    "cv_2022_2026_egodata::UnrealEgo": {
+      "imageUrl": "/snapshots/d0c9d8cc3479cf6c.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4021_ECCV_2022_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660001.pdf"
+    },
+    "cv_2022_2026_egodata::GIMO": {
+      "imageUrl": "/snapshots/3c985b9025861298.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2162_ECCV_2022_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730675.pdf"
+    },
+    "cv_2022_2026_egodata::EgoProceL/My View Is the Best View": {
+      "imageUrl": "/snapshots/8985ce55aef40689.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1886_ECCV_2022_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730656.pdf"
+    },
+    "cv_2022_2026_egodata::EgoHOS/Fine-Grained Egocentric Hand-Object Segmentation": {
+      "imageUrl": "/snapshots/a2764820fbc61cb6.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2152_ECCV_2022_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890125.pdf"
+    },
+    "cv_2022_2026_egodata::Egocentric Activity Recognition and Localization on a 3D Map": {
+      "imageUrl": "/snapshots/a5d8ef5b543bb26a.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1709_ECCV_2022_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730620.pdf"
+    },
+    "cv_2022_2026_egodata::AssistQ": {
+      "imageUrl": "/snapshots/345a2537c5cd4f38.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5044_ECCV_2022_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960478.pdf"
+    },
+    "cv_2022_2026_egodata::Nymeria": {
+      "imageUrl": "/snapshots/55425fd7bdf39f4b.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03541.pdf",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03541.pdf"
+    },
+    "cv_2022_2026_egodata::EgoBody3M": {
+      "imageUrl": "/snapshots/906e283e17516329.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10261_ECCV_2024_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10261.pdf"
+    },
+    "cv_2022_2026_egodata::EgoPet": {
+      "imageUrl": "/snapshots/9239174d5830b7f0.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5469_ECCV_2024_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05469.pdf"
+    },
+    "cv_2022_2026_egodata::Synchronization Is All You Need": {
+      "imageUrl": "/snapshots/a1beabdd12e411e0.webp",
+      "pageUrl": "https://eccv.ecva.net/virtual/2024/poster/333",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09116.pdf"
+    },
+    "cv_2022_2026_egodata::Put Myself in Your Shoes/Exo2Ego": {
+      "imageUrl": "/snapshots/c9f20c71a71451e6.webp",
+      "pageUrl": "https://eccv.ecva.net/virtual/2024/poster/2127",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05558.pdf"
+    },
+    "cv_2022_2026_egodata::4Diff": {
+      "imageUrl": "/snapshots/240dbd20b942fe0e.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3536_ECCV_2024_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03536.pdf"
+    },
+    "cv_2022_2026_egodata::Ex2Eg-MAE": {
+      "imageUrl": "/snapshots/cc93b0df5c559ea4.webp",
+      "pageUrl": "https://eccv.ecva.net/virtual/2024/poster/719",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10301.pdf"
+    },
+    "cv_2022_2026_egodata::EgoPoseFormer": {
+      "imageUrl": "/snapshots/2abc3c717260a915.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7241_ECCV_2024_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07241.pdf"
+    },
+    "cv_2022_2026_egodata::LEGO": {
+      "imageUrl": "/snapshots/a15fc73f4b3cc72b.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1383_ECCV_2024_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01383.pdf"
+    },
+    "cv_2022_2026_egodata::Masked Video and Body-worn IMU Autoencoder/EVI-MAE": {
+      "imageUrl": "/snapshots/8b656b4958e8c26f.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2781_ECCV_2024_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02781.pdf"
+    },
+    "cv_2022_2026_egodata::AMEGO": {
+      "imageUrl": "/snapshots/8817994c6d3c57a5.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2032_ECCV_2024_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02032.pdf"
+    },
+    "cv_2022_2026_egodata::3D Hand Pose Estimation in Everyday Egocentric Images": {
+      "imageUrl": "/snapshots/ba36a45fd53ab82b.webp",
+      "pageUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10034_ECCV_2024_paper.php",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10034.pdf"
+    },
+    "eccv2026_egocentric_papers_with_modalities::FEEL": {
+      "imageUrl": "/snapshots/db2486bbdf69c94b.webp",
+      "pageUrl": "https://arxiv.org/abs/2603.15847",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2603.15847v1/mosaic.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EPIC-Contact": {
+      "imageUrl": "/snapshots/a77461abe70d5435.webp",
+      "pageUrl": "https://sid2697.github.io/epic-contact/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/Sid2697/HOPformer",
+        "https://github.com/ZJHTerry18/ec-fit"
+      ],
+      "gpuRequirement": "…h size is per-GPU ; the [paper](http://arxiv.org/abs/2606.30598) trains on 4 GPUs",
+      "gpuSource": "https://github.com/Sid2697/HOPformer",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://sid2697.github.io/epic-contact/dataset/P01_01_17259_17658_left_pan/frame_0000017458.jpg"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EXPLORE-Bench": {
+      "imageUrl": "/snapshots/778f10b98dd68b6f.webp",
+      "pageUrl": "https://arxiv.org/abs/2603.09731",
+      "status": "source-image",
+      "github": [
+        "https://github.com/JackYu6/EXPLORE-Bench"
+      ],
+      "gpuRequirement": "…verage single-instance inference time of Qwen3-VL-8B-Instruct on an NVIDIA H200 GPU under different inference strategies.",
+      "gpuSource": "https://arxiv.org/html/2603.09731",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2603.09731v3/teaser_v3.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::FlatLands": {
+      "imageUrl": "/snapshots/4d2bbe485352442a.webp",
+      "pageUrl": "https://arxiv.org/abs/2603.16016",
+      "status": "source-image",
+      "github": [
+        "https://github.com/1ssb/Flat_Lands"
+      ],
+      "gpuRequirement": "A100 40 GB GPUs under identical schedules; inference runs on consumer-grade hardware (Nvidia RTX 4090).",
+      "gpuSource": "https://arxiv.org/html/2603.16016",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2603.16016v2/figures/pipeline_rgb.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoTraj": {
+      "imageUrl": "/snapshots/42afdb887e968011.webp",
+      "pageUrl": "https://arxiv.org/abs/2605.19004",
+      "status": "source-image",
+      "github": [
+        "https://github.com/yehiahmad/EgoTraj"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2605.19004v1/egotraj_intro.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoEverything": {
+      "imageUrl": "/snapshots/5524febc42c64c1a.webp",
+      "pageUrl": "https://arxiv.org/abs/2604.08342",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2604.08342v2/motivation-examples.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoSAT": {
+      "imageUrl": "/snapshots/5ceb0e2810a4905f.webp",
+      "pageUrl": "https://arxiv.org/abs/2606.24422",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2606.24422v1/benchmark_figures_clean.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::BiCE-HG": {
+      "imageUrl": "/snapshots/6cbe21adbbf36423.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official page section",
+      "visualSourceUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Spatial Amsan": {
+      "imageUrl": "/snapshots/936925a0a21bdc08.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://eccv.ecva.net/Conferences/2026/Videos"
+    },
+    "eccv2026_egocentric_papers_with_modalities::SEERBench": {
+      "imageUrl": "/snapshots/2c74850e4b869eff.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official page section",
+      "visualSourceUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoPolice": {
+      "imageUrl": "/snapshots/86dd5f91f73173cb.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2607.06468"
+    },
+    "eccv2026_egocentric_papers_with_modalities::LongEgoRefer": {
+      "imageUrl": "/snapshots/5d91480dfb605532.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2607.02096"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoDyn-Bench": {
+      "imageUrl": "/snapshots/041049afb7acd66a.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2604.22851"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Continuous HRV Estimation/EgoHRV": {
+      "imageUrl": "/snapshots/9978f76bbbf9033a.webp",
+      "pageUrl": "https://arxiv.org/abs/2608.18711",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2608.18711"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Exo2EgoPolicy": {
+      "imageUrl": "/snapshots/61c83b84d8986a19.webp",
+      "pageUrl": "https://hritam-98.github.io/exo2egopolicy/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/hritam-98/exo2egopolicy"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://hritam-98.github.io/exo2egopolicy/static/images/teaser.jpg"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Lifting Embodied World Models": {
+      "imageUrl": "/snapshots/7fbb76d95b2f97e1.webp",
+      "pageUrl": "https://arxiv.org/abs/2604.26182",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2604.26182v2/teaserv6-2.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoMAN": {
+      "imageUrl": "/snapshots/ed208b18670e36f1.webp",
+      "pageUrl": "https://arxiv.org/abs/2512.16907",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2512.16907v2/methodology_final.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoPHI": {
+      "imageUrl": "/snapshots/b5a2df7b22b145fe.webp",
+      "pageUrl": "https://arxiv.org/abs/2608.13014",
+      "status": "source-image",
+      "github": [
+        "https://github.com/eth-siplab/EgoPHI"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2608.13014v1/teaser-CH.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::STEP": {
+      "imageUrl": "/snapshots/d40f549762854a75.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official page section",
+      "visualSourceUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoCogNav": {
+      "imageUrl": "/snapshots/3de66fa50333521f.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official page section",
+      "visualSourceUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Vinci2": {
+      "imageUrl": "/snapshots/cf3c9b044e70f777.webp",
+      "pageUrl": "https://sitonggong.github.io/EgoServe-page/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/SitongGong/EgoMemo"
+      ],
+      "gpuRequirement": "Training-free pipeline using Qwen3-VL-8B-Instruct, ImageBind and hosted GPT APIs; the release defines no fixed local GPU minimum.",
+      "gpuSource": "https://arxiv.org/html/2607.11523",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://sitonggong.github.io/EgoServe-page/"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Beyond Language": {
+      "imageUrl": "/snapshots/0534c2391d751b12.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2603.26646"
+    },
+    "eccv2026_egocentric_papers_with_modalities::C2E": {
+      "imageUrl": "/snapshots/2db18251eaad6797.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2607.01827"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Learning Ego-Centric BEV": {
+      "imageUrl": "/snapshots/772714bd31106203.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2605.12218"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Walk through Paintings": {
+      "imageUrl": "/snapshots/53b23cb96de0ecd2.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2601.15284"
+    },
+    "eccv2026_egocentric_papers_with_modalities::ReViV": {
+      "imageUrl": "/snapshots/ffd2f405271c5aa9.webp",
+      "pageUrl": "https://reviv4d.github.io/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/lvsean/reviv4d"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://reviv4d.github.io/assets/images/teaser-overview.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::ECHO": {
+      "imageUrl": "/snapshots/fff068a85387b658.webp",
+      "pageUrl": "https://virtualhumans.mpi-inf.mpg.de/echo/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official video frame",
+      "visualSourceUrl": "https://ptrvilya.github.io/echo/"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoExoMoCap": {
+      "imageUrl": "/snapshots/8eb116c38296d23e.webp",
+      "pageUrl": "https://github.com/eth-siplab/EgoExoMoCap",
+      "status": "source-image",
+      "github": [
+        "https://github.com/eth-siplab/EgoExoMoCap"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official video frame",
+      "visualSourceUrl": "https://github.com/eth-siplab/youtu.be/IeC5uyEhtyU"
+    },
+    "eccv2026_egocentric_papers_with_modalities::WHIP": {
+      "imageUrl": "/snapshots/eaf15c454e5c4693.webp",
+      "pageUrl": "https://arxiv.org/abs/2607.09780",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2607.09780v1/images/teaser_v3_q95.jpg"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoGVAE": {
+      "imageUrl": "/snapshots/c6519dea66d8bf89.webp",
+      "pageUrl": "https://arxiv.org/abs/2607.27755",
+      "status": "source-image",
+      "github": [
+        "https://github.com/DCVL-3D/EgoGVAE_release"
+      ],
+      "gpuRequirement": "…nce time (Time), which are conducted based on sequences of 128 frames with RTX 3090 Ti GPU.",
+      "gpuSource": "https://arxiv.org/html/2607.27755",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2607.27755v1/fig1.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Ego3DLM/3D-Aware Ego Motion Prediction": {
+      "imageUrl": "/snapshots/c6e96a52e86a1f56.webp",
+      "pageUrl": "https://arxiv.org/abs/2607.07001",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2607.07001"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoSim": {
+      "imageUrl": "/snapshots/52c1495d3ff33936.webp",
+      "pageUrl": "https://egosimulator.github.io/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/jinkun-hao/EgoSim"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://egosimulator.github.io/images/teaser.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoHOI": {
+      "imageUrl": "/snapshots/a6cdf8420fa58a83.webp",
+      "pageUrl": "https://github.com/phai-lab/EgoHOI",
+      "status": "source-image",
+      "github": [
+        "https://github.com/phai-lab/EgoHOI"
+      ],
+      "gpuRequirement": "A GPU with enough memory for Wan I2V inference",
+      "gpuSource": "https://github.com/phai-lab/EgoHOI",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://opengraph.githubassets.com/dd9507d1edf3ee09339a0e92c662c579b0f07b78b3481731724745a459e737fd/phai-lab/EgoHOI"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Controllable Ego Video": {
+      "imageUrl": "/snapshots/0bcdb721feaee243.webp",
+      "pageUrl": "https://arxiv.org/abs/2603.11755",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2603.11755v3/Teasor_new.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::From Synchrony to Sequence": {
+      "imageUrl": "/snapshots/7e5fec5577bb5f40.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2604.13793"
+    },
+    "eccv2026_egocentric_papers_with_modalities::WorldWander": {
+      "imageUrl": "/snapshots/1b97046ecd964dc9.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2511.22098"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoVITA": {
+      "imageUrl": "/snapshots/b6b878321cb536fa.webp",
+      "pageUrl": "https://arxiv.org/abs/2511.18242",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": "NVIDIA L40S GPUs using DoRA",
+      "gpuSource": "https://arxiv.org/html/2511.18242",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2511.18242v3/pipeline_19.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::SkillSpotter": {
+      "imageUrl": "/snapshots/a52f260f70960dd0.webp",
+      "pageUrl": "https://arxiv.org/abs/2606.31127",
+      "status": "source-image",
+      "github": [
+        "https://github.com/eth-siplab/SkillSpotter"
+      ],
+      "gpuRequirement": "Training takes less than 15 minutes on one NVIDIA H200 GPU for all view settings.",
+      "gpuSource": "https://arxiv.org/html/2606.31127",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2606.31127v1/overview.png"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Whareformer/Where and What": {
+      "imageUrl": "/snapshots/4da424cffe18de9a.webp",
+      "pageUrl": "https://arxiv.org/abs/2607.08537",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://jacobchalk.github.io/Whareformer/"
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoExo-Con": {
+      "imageUrl": "/snapshots/1d0a6cd8b5431d93.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2510.26113"
+    },
+    "eccv2026_egocentric_papers_with_modalities::From My View to Yours/Learning Ego Cues from Exo Video": {
+      "imageUrl": "/snapshots/529cfb3590794efb.webp",
+      "pageUrl": "https://arxiv.org/abs/2501.05711",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2501.05711"
+    },
+    "eccv2026_egocentric_papers_with_modalities::LogFA": {
+      "imageUrl": "/snapshots/084520c209071934.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official page section",
+      "visualSourceUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers"
+    },
+    "eccv2026_egocentric_papers_with_modalities::VidParse/Egocentric Procedure Parsing": {
+      "imageUrl": "/snapshots/7c6091b193372cd0.webp",
+      "pageUrl": "https://arxiv.org/abs/2608.27562",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2608.27562"
+    },
+    "eccv2026_egocentric_papers_with_modalities::Moving Beyond More Views": {
+      "imageUrl": "/snapshots/180ffb371afc1365.webp",
+      "pageUrl": "https://eccv.ecva.net/Conferences/2026/AcceptedPapers",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2608.25736"
+    },
+    "ml_graphics_2022_2026_egodata::Egocentric Scene Reconstruction from an Omnidirectional Video": {
+      "imageUrl": "/snapshots/080c6215f5fed614.webp",
+      "pageUrl": "https://vclab.kaist.ac.kr/siggraph2022p2/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/KAIST-VCLAB/EgocentricReconstruction"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://vclab.kaist.ac.kr/siggraph2022p2/teaser.jpg"
+    },
+    "ml_graphics_2022_2026_egodata::UmeTrack: Unified Multi-view End-to-end Hand Tracking for VR": {
+      "imageUrl": "/snapshots/5808bb31f12bc40d.webp",
+      "pageUrl": "https://arxiv.org/abs/2211.00099",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2211.00099v1/figures/teaser/quest2.jpg"
+    },
+    "ml_graphics_2022_2026_egodata::Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views": {
+      "imageUrl": "/snapshots/090f331c6b4e901b.webp",
+      "pageUrl": "https://arxiv.org/abs/2309.11962",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2309.11962v1/images/teaser.png"
+    },
+    "ml_graphics_2022_2026_egodata::EgoAvatar: Egocentric View-Driven and Photorealistic Full-body Avatars": {
+      "imageUrl": "/snapshots/e31ca4731a2dd851.webp",
+      "pageUrl": "https://vcai.mpi-inf.mpg.de/projects/EgoAvatar/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://vcai.mpi-inf.mpg.de/projects/EgoAvatar/images/pipeline-new.png"
+    },
+    "ml_graphics_2022_2026_egodata::EgoHDM: Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping": {
+      "imageUrl": "/snapshots/12205635ed9e92ce.webp",
+      "pageUrl": "https://handiyin.github.io/EgoHDM/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/liubonan123/EgoHDM"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official video frame",
+      "visualSourceUrl": "https://handiyin.github.io/EgoHDM/youtu.be/L6BIrTWWy_Y"
+    },
+    "ml_graphics_2022_2026_egodata::Photoreal Scene Reconstruction from an Egocentric Device": {
+      "imageUrl": "/snapshots/4cec8b2ebcadd5ed.webp",
+      "pageUrl": "https://arxiv.org/abs/2506.04444",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2506.04444v1/sections/figures/teaser/teaser_gamma.jpg"
+    },
+    "ml_graphics_2022_2026_egodata::Egocentric 3D Pose Estimation with Temporally Guided Pose Refinement": {
+      "imageUrl": "/snapshots/e257f3b28112bde2.webp",
+      "pageUrl": "https://doi.org/10.1145/3757374.3771474",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://doi.org/10.1145/3757374.3771474"
+    },
+    "ml_graphics_2022_2026_egodata::EgoRelight: Egocentric Human Capture and Illumination Recovery for Relightable and Photoreal Avatar Rendering": {
+      "imageUrl": "/snapshots/9609088c94b35c34.webp",
+      "pageUrl": "https://arxiv.org/abs/2605.28401",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2605.28401v1/teaser.png"
+    },
+    "ml_graphics_2022_2026_egodata::Egocentric Video-Language Pretraining (EgoVLP/EgoClip)": {
+      "imageUrl": "/snapshots/e4cb6ef8021a406f.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/31fb284a0aaaad837d2930a610cd5e50-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2022/file/31fb284a0aaaad837d2930a610cd5e50-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoTaskQA: Understanding Human Tasks in Egocentric Videos": {
+      "imageUrl": "/snapshots/cdc634b6b678ce2b.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/161c94a58ca25bafcaf47893e8233deb-Abstract-Datasets_and_Benchmarks.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2022/file/161c94a58ca25bafcaf47893e8233deb-Paper-Datasets_and_Benchmarks.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EPIC-KITCHENS VISOR": {
+      "imageUrl": "/snapshots/3f939dfb396b8586.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/590a7ebe0da1f262c80d0188f5c4c222-Abstract-Datasets_and_Benchmarks.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2022/file/590a7ebe0da1f262c80d0188f5c4c222-Paper-Datasets_and_Benchmarks.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::ActionSense": {
+      "imageUrl": "/snapshots/c1275d4078532fff.webp",
+      "pageUrl": "https://action-net.csail.mit.edu/dataset_info.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/delpreto/ActionNet",
+        "https://github.com/NiklasRosenstein/myo-python",
+        "https://github.com/IntelRealSense/realsense-ros"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official page section",
+      "visualSourceUrl": "https://action-net.csail.mit.edu/dataset_info.html"
+    },
+    "ml_graphics_2022_2026_egodata::Learning State-Aware Visual Representations from Audible Interactions (RepLAI)": {
+      "imageUrl": "/snapshots/0d0180e6a6c04b78.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/9647157086adf5aa2c0217fb7f82bb19-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2022/file/9647157086adf5aa2c0217fb7f82bb19-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::Ego4D Goal-Step": {
+      "imageUrl": "/snapshots/18947c23d55ff563.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/7a65606fa1a6849450550325832036e5-Abstract-Datasets_and_Benchmarks.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/file/7a65606fa1a6849450550325832036e5-Paper-Datasets_and_Benchmarks.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EPIC Fields": {
+      "imageUrl": "/snapshots/5e4788a402a49e0c.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/543d4e171150cb931f1d401cacc3d7af-Abstract-Datasets_and_Benchmarks.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/file/543d4e171150cb931f1d401cacc3d7af-Paper-Datasets_and_Benchmarks.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoTracks": {
+      "imageUrl": "/snapshots/7eb2dc357fec88aa.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/ef01d91aa87e7701aa9c8dc66a2d5bdb-Abstract-Datasets_and_Benchmarks.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/file/ef01d91aa87e7701aa9c8dc66a2d5bdb-Paper-Datasets_and_Benchmarks.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoSchema": {
+      "imageUrl": "/snapshots/d7a2bf65570c0484.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/90ce332aff156b910b002ce4e6880dec-Abstract-Datasets_and_Benchmarks.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/egoschema/EgoSchema"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::Learning Fine-grained View-Invariant Representations via Temporal Alignment (AE2)": {
+      "imageUrl": "/snapshots/dc6a9d048053b765.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/file/a845fdc3f87751710218718adb634fe7-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::Look Ma, No Hands! Agent-Environment Factorization": {
+      "imageUrl": "/snapshots/39650171598cfbf1.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/437cd2749391ad40f67e4dd1d87c4596-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/file/437cd2749391ad40f67e4dd1d87c4596-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EmbodiedGPT": {
+      "imageUrl": "/snapshots/fe8b3c076d85ea03.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ec43957eda1126ad4887995d05fae3b-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/file/4ec43957eda1126ad4887995d05fae3b-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoDistill": {
+      "imageUrl": "/snapshots/b7581fd77c54bbfe.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/6a412f0037b0df295a39a198666ea6a6-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/file/6a412f0037b0df295a39a198666ea6a6-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::Object Reprojection Error/EgoStatic": {
+      "imageUrl": "/snapshots/e48dbd37d17afb48.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/eb206443c93d07da8b1974b768d8a0d4-Abstract-Datasets_and_Benchmarks.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2023/file/eb206443c93d07da8b1974b768d8a0d4-Paper-Datasets_and_Benchmarks.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::SpotEM: Efficient Video Search for Episodic Memory": {
+      "imageUrl": "/snapshots/0ecc087364e01306.webp",
+      "pageUrl": "https://proceedings.mlr.press/v202/ramakrishnan23a.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v202/ramakrishnan23a/ramakrishnan23a.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::LIV: Language-Image Representations and Rewards for Robotic Control": {
+      "imageUrl": "/snapshots/3b1a0d9c9fb1522d.webp",
+      "pageUrl": "https://proceedings.mlr.press/v202/ma23b.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v202/ma23b/ma23b.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::VIP: Value-Implicit Pre-Training": {
+      "imageUrl": "/snapshots/8be01e8f6e5addeb.webp",
+      "pageUrl": "https://openreview.net/forum?id=YJ7o2wetJ2",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://openreview.net/forum?id=YJ7o2wetJ2"
+    },
+    "ml_graphics_2022_2026_egodata::AntGPT": {
+      "imageUrl": "/snapshots/da18e1b1192c697f.webp",
+      "pageUrl": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/faa8be9311811ba7c36fa1ceec13b862-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2024/file/faa8be9311811ba7c36fa1ceec13b862-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::Multi-Factor Adaptive Vision Selection (MFAS)": {
+      "imageUrl": "/snapshots/226364d4b1773dfa.webp",
+      "pageUrl": "https://proceedings.mlr.press/v235/zhang24aj.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official page section",
+      "visualSourceUrl": "https://proceedings.mlr.press/v235/zhang24aj.html"
+    },
+    "ml_graphics_2022_2026_egodata::CaptainCook4D": {
+      "imageUrl": "/snapshots/7e92136f2783d4c4.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/f4a04396c2ed1342a5d8d05e94cb6101-Abstract-Datasets_and_Benchmarks_Track.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/file/f4a04396c2ed1342a5d8d05e94cb6101-Paper-Datasets_and_Benchmarks_Track.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::E³: Exploring Embodied Emotion": {
+      "imageUrl": "/snapshots/d000b785dcd3125b.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/d611d5c0251d9680f869c5d2c46c6fcd-Abstract-Datasets_and_Benchmarks_Track.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/file/d611d5c0251d9680f869c5d2c46c6fcd-Paper-Datasets_and_Benchmarks_Track.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::Exocentric-to-Egocentric Video Generation (Exo2Ego-V)": {
+      "imageUrl": "/snapshots/de1530d580664c40.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/f5a8b5e5d007e66c929b971c2bc21d76-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/file/f5a8b5e5d007e66c929b971c2bc21d76-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoChoir": {
+      "imageUrl": "/snapshots/58407a78b1f82ead.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/61f9cc83f684a4979929804ba8abf027-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/file/61f9cc83f684a4979929804ba8abf027-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::DSPoser: Estimating Ego-Body Pose from Doubly Sparse Data": {
+      "imageUrl": "/snapshots/1869ca2a158a8b9a.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/633b0e871a48d542280c3ad03928e60d-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2024/file/633b0e871a48d542280c3ad03928e60d-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::Do EgoVLMs Truly Understand Hand-Object Interactions? (EgoHOIBench/EgoNCE++)": {
+      "imageUrl": "/snapshots/db5b2406aacf0688.webp",
+      "pageUrl": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/fa55eb802a531c8087e225ecf2dcfbca-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2025/file/fa55eb802a531c8087e225ecf2dcfbca-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::DenseGrounding": {
+      "imageUrl": "/snapshots/6e2d00ed12c40783.webp",
+      "pageUrl": "https://openreview.net/forum?id=iGafR0hSln",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://openreview.net/forum?id=iGafR0hSln"
+    },
+    "ml_graphics_2022_2026_egodata::EgoPrivacy": {
+      "imageUrl": "/snapshots/a6a981875e15625f.webp",
+      "pageUrl": "https://proceedings.mlr.press/v267/li25ds.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/williamium3000/ego-privacy"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official page section",
+      "visualSourceUrl": "https://proceedings.mlr.press/v267/li25ds.html"
+    },
+    "ml_graphics_2022_2026_egodata::EgoVid-5M": {
+      "imageUrl": "/snapshots/e7b64e24ef908e20.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/3ef2b740cb22dcce67c20989cb3d3fce-Abstract-Datasets_and_Benchmarks_Track.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/JeffWang987/EgoVid"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/file/3ef2b740cb22dcce67c20989cb3d3fce-Paper-Datasets_and_Benchmarks_Track.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoBlind": {
+      "imageUrl": "/snapshots/3330b9645f5712a4.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/25b9960c8a5bd887eb5476c951260403-Abstract-Datasets_and_Benchmarks_Track.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/file/25b9960c8a5bd887eb5476c951260403-Paper-Datasets_and_Benchmarks_Track.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::OpenMMEgo/OME10M": {
+      "imageUrl": "/snapshots/d545a95f92b12569.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/24b9e3da4b01ec1e8a41144cfe8dc929-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/file/24b9e3da4b01ec1e8a41144cfe8dc929-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::egoEMOTION": {
+      "imageUrl": "/snapshots/f552fca9f197ae62.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/b9784f4c3685bebeacd387c4e680b5b2-Abstract-Datasets_and_Benchmarks_Track.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/file/b9784f4c3685bebeacd387c4e680b5b2-Paper-Datasets_and_Benchmarks_Track.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::Whole-Body Conditioned Egocentric Video Prediction": {
+      "imageUrl": "/snapshots/ac8f04f0f6cf7511.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f0552f14388d95b19740dee809f5cad1-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/file/f0552f14388d95b19740dee809f5cad1-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoExoBench": {
+      "imageUrl": "/snapshots/93d84c6add3f7e4c.webp",
+      "pageUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a974bceb4d1af7d46673d1876482bd4f-Abstract-Datasets_and_Benchmarks_Track.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/file/a974bceb4d1af7d46673d1876482bd4f-Paper-Datasets_and_Benchmarks_Track.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoDex": {
+      "imageUrl": "/snapshots/a20aae0e8ca443f4.webp",
+      "pageUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/07fcc6e2b89439d3ee5ab60939aaa6a0-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/apple/ml-egodex"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/file/07fcc6e2b89439d3ee5ab60939aaa6a0-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoNight": {
+      "imageUrl": "/snapshots/0d52b1c60162416c.webp",
+      "pageUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/022ca1bed6b574b962c48a2856eb207b-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/file/022ca1bed6b574b962c48a2856eb207b-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoBrain": {
+      "imageUrl": "/snapshots/4c77c6bb368ef7f2.webp",
+      "pageUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/96214e53d0ca519b0236a189bd3b6a18-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/file/96214e53d0ca519b0236a189bd3b6a18-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::ENACT": {
+      "imageUrl": "/snapshots/36aa026590ce838e.webp",
+      "pageUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/f841d4e62cf309aec2bfe9a459e852b4-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/file/f841d4e62cf309aec2bfe9a459e852b4-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoWorld": {
+      "imageUrl": "/snapshots/dab11926afe9b548.webp",
+      "pageUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1f381fed970b3a8c7f97d74dfc5b510c-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/file/1f381fed970b3a8c7f97d74dfc5b510c-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoHandICL": {
+      "imageUrl": "/snapshots/ebdf1b2645217700.webp",
+      "pageUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/3a7cb31c8f4fa170aaa38f0e28d6042e-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/file/3a7cb31c8f4fa170aaa38f0e28d6042e-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoTwin": {
+      "imageUrl": "/snapshots/cb8f9a81693c9bd7.webp",
+      "pageUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/3098f6165f551e02c99af1d03f0d6b03-Abstract-Conference.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/file/3098f6165f551e02c99af1d03f0d6b03-Paper-Conference.pdf"
+    },
+    "ml_graphics_2022_2026_egodata::EgoTactile": {
+      "imageUrl": "/snapshots/a96bc08e4f856523.webp",
+      "pageUrl": "https://egotactile.github.io/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/Russell-Zeng/EgoTactile"
+      ],
+      "gpuRequirement": "GPU memory note: training typically requires ~ 44GB VRAM .",
+      "gpuSource": "https://github.com/Russell-Zeng/EgoTactile",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://egotactile.github.io/assets/task_overview.png"
+    },
+    "ml_graphics_2022_2026_egodata::Keep It in Mind: UCS-Bench/DirectMe": {
+      "imageUrl": "/snapshots/a80c99fb47b66125.webp",
+      "pageUrl": "https://arxiv.org/abs/2606.15200",
+      "status": "source-image",
+      "github": [
+        "https://github.com/cocowy1/UCS-Bench"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2606.15200v1/teaser.png"
+    },
+    "ml_graphics_2022_2026_egodata::Ego3S": {
+      "imageUrl": "/snapshots/67b636b22218f59f.webp",
+      "pageUrl": "https://icml.cc/Downloads/2026",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://icml.cc/Downloads/2026"
+    },
+    "ml_graphics_2022_2026_egodata::MotionGRPO": {
+      "imageUrl": "/snapshots/5f1d4f6219aa38fc.webp",
+      "pageUrl": "https://arxiv.org/abs/2605.05680",
+      "status": "source-image",
+      "github": [
+        "https://github.com/3DAgentWorld/MotionGRPO"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2605.05680v2/vis-overview-0129_.png"
+    },
+    "robotics_2022_2026_egodata::Human-to-Robot Imitation in the Wild (WHIRL)": {
+      "imageUrl": "/snapshots/748a3dea02ce5a0b.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss18/p026.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss18/p026.pdf"
+    },
+    "robotics_2022_2026_egodata::Robotic Telekinesis": {
+      "imageUrl": "/snapshots/3b87eee957a7b14e.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss18/p023.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": "Reported evaluation setup, not minimum: 2× NVIDIA RTX 3080 Ti.",
+      "gpuSource": "https://arxiv.org/abs/2202.10448",
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss18/p023.pdf"
+    },
+    "robotics_2022_2026_egodata::Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets": {
+      "imageUrl": "/snapshots/9111fcad971efb79.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss18/p063.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss18/p063.pdf"
+    },
+    "robotics_2022_2026_egodata::Structured World Models from Human Videos": {
+      "imageUrl": "/snapshots/a449ac2d52e93788.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss19/p012.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss19/p012.pdf"
+    },
+    "robotics_2022_2026_egodata::PATO": {
+      "imageUrl": "/snapshots/78d6f760416b28e3.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss19/p013.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss19/p013.pdf"
+    },
+    "robotics_2022_2026_egodata::AnyTeleop": {
+      "imageUrl": "/snapshots/715a75afc1936580.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss19/p015.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss19/p015.pdf"
+    },
+    "robotics_2022_2026_egodata::Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware (ALOHA/ACT)": {
+      "imageUrl": "/snapshots/c869836f86546085.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss19/p016.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/tonyzhaozh/aloha",
+        "https://github.com/tonyzhaozh/act"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss19/p016.pdf"
+    },
+    "robotics_2022_2026_egodata::FurnitureBench": {
+      "imageUrl": "/snapshots/29deba2987ba0ce1.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss19/p041.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/clvrai/furniture-bench"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss19/p041.pdf"
+    },
+    "robotics_2022_2026_egodata::DROID": {
+      "imageUrl": "/snapshots/24d5ab581acb08ea.webp",
+      "pageUrl": "https://droid-dataset.github.io/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/droid-dataset/droid",
+        "https://github.com/droid-dataset/droid_policy_learning"
+      ],
+      "gpuRequirement": "Reported training: 1× NVIDIA A100; VRAM not stated.",
+      "gpuSource": "https://github.com/droid-dataset/droid_policy_learning",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://droid-dataset.github.io/figures/droid_setup.png"
+    },
+    "robotics_2022_2026_egodata::DexCap": {
+      "imageUrl": "/snapshots/67da243b6af68625.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss20/p043.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/j96w/DexCap"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss20/p043.pdf"
+    },
+    "robotics_2022_2026_egodata::Universal Manipulation Interface (UMI)": {
+      "imageUrl": "/snapshots/585ff5b46cf8ecfc.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss20/p045.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/real-stanford/universal_manipulation_interface"
+      ],
+      "gpuRequirement": "Tested setup, not minimum: RTX 3090 24GB for single-GPU policy training.",
+      "gpuSource": "https://github.com/real-stanford/universal_manipulation_interface#training-diffusion-policy",
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss20/p045.pdf"
+    },
+    "robotics_2022_2026_egodata::ScrewMimic": {
+      "imageUrl": "/snapshots/d27d9b03f73731ae.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss20/p078.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/UT-Austin-RobIn/ScrewMimic"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss20/p078.pdf"
+    },
+    "robotics_2022_2026_egodata::Vid2Robot": {
+      "imageUrl": "/snapshots/a109b83f4439c5a7.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss20/p052.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss20/p052.pdf"
+    },
+    "robotics_2022_2026_egodata::RoboCasa": {
+      "imageUrl": "/snapshots/b5bd0e62b319ab52.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss20/index.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/robocasa/robocasa"
+      ],
+      "gpuRequirement": "Current policy docs: Diffusion Policy ≥24GB (48GB+ preferred); OpenPI / GR00T ≥100GB; inference ≥8GB.",
+      "gpuSource": "https://github.com/robocasa/robocasa/blob/main/docs/benchmarking/policy_learning_algorithms.md",
+      "visualType": "official page section",
+      "visualSourceUrl": "https://robocasa.ai/"
+    },
+    "robotics_2022_2026_egodata::SafeMimic": {
+      "imageUrl": "/snapshots/509f78dd64db5f52.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p128.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p128.pdf"
+    },
+    "robotics_2022_2026_egodata::You Only Teach Once (YOTO)": {
+      "imageUrl": "/snapshots/6ca0ac6f577624dc.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p149.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/hnuzhy/YOTO"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p149.pdf"
+    },
+    "robotics_2022_2026_egodata::Human2LocoMan": {
+      "imageUrl": "/snapshots/37af30a2529b6aea.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p122.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/chrisyrniu/Human2LocoMan"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p122.pdf"
+    },
+    "robotics_2022_2026_egodata::RoboMIND": {
+      "imageUrl": "/snapshots/80fe987ee9ce3f37.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p152.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p152.pdf"
+    },
+    "robotics_2022_2026_egodata::Robot Data Curation with Mutual Information Estimators": {
+      "imageUrl": "/snapshots/6d0f6056439106c0.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p023.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p023.pdf"
+    },
+    "robotics_2022_2026_egodata::Curating Demonstrations using Online Experience (Demo-SCORE)": {
+      "imageUrl": "/snapshots/cff204ce402a7ded.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p071.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p071.pdf"
+    },
+    "robotics_2022_2026_egodata::Physics-Driven Data Generation for Contact-Rich Manipulation": {
+      "imageUrl": "/snapshots/448fa67ab249d845.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p053.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p053.pdf"
+    },
+    "robotics_2022_2026_egodata::REASSEMBLE": {
+      "imageUrl": "/snapshots/0b1a20353438e0ca.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p059.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p059.pdf"
+    },
+    "robotics_2022_2026_egodata::DOGlove": {
+      "imageUrl": "/snapshots/3734848dc0f3db23.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p104.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/TEA-Lab/DOGlove"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p104.pdf"
+    },
+    "robotics_2022_2026_egodata::Dex1B": {
+      "imageUrl": "/snapshots/87c9f455cca1dcbd.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss21/p106.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss21/p106.pdf"
+    },
+    "robotics_2022_2026_egodata::Emergence of Human-to-Robot Transfer in VLAs": {
+      "imageUrl": "/snapshots/0809e14ac3d68ff3.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss22/p072.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss22/p072.pdf"
+    },
+    "robotics_2022_2026_egodata::mimic-video": {
+      "imageUrl": "/snapshots/43e910b9e4f2c0a2.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss22/p077.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss22/p077.pdf"
+    },
+    "robotics_2022_2026_egodata::RIO": {
+      "imageUrl": "/snapshots/612f528ab70dbe45.webp",
+      "pageUrl": "https://www.roboticsproceedings.org/rss22/p164.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://www.roboticsproceedings.org/rss22/p164.pdf"
+    },
+    "robotics_2022_2026_egodata::Open X-Embodiment/RT-X": {
+      "imageUrl": "/snapshots/1bfceb9a917ffe8e.webp",
+      "pageUrl": "https://ieeexplore.ieee.org/document/10611477/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://ieeexplore.ieee.org/document/10611477/"
+    },
+    "robotics_2022_2026_egodata::RH20T": {
+      "imageUrl": "/snapshots/a39ea6d6643c5c74.webp",
+      "pageUrl": "https://ieeexplore.ieee.org/document/10611615/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://ieeexplore.ieee.org/document/10611615/"
+    },
+    "robotics_2022_2026_egodata::RoboAgent/RoboSet": {
+      "imageUrl": "/snapshots/d073d41066f3beaa.webp",
+      "pageUrl": "https://ieeexplore.ieee.org/document/10611293/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://ieeexplore.ieee.org/document/10611293/"
+    },
+    "robotics_2022_2026_egodata::InteRACT": {
+      "imageUrl": "/snapshots/9c4af168356a40c9.webp",
+      "pageUrl": "https://ieeexplore.ieee.org/document/10610681/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://ieeexplore.ieee.org/document/10610681/"
+    },
+    "robotics_2022_2026_egodata::ForceMimic": {
+      "imageUrl": "/snapshots/30b2e315b0b19b7f.webp",
+      "pageUrl": "https://forcemimic.github.io/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/ForceMimic/forcecapture",
+        "https://github.com/ForceMimic/hybridil"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://forcemimic.github.io/static/images/teaser.png"
+    },
+    "robotics_2022_2026_egodata::Motion Tracks": {
+      "imageUrl": "/snapshots/d1a5b81ca50952f2.webp",
+      "pageUrl": "https://ieeexplore.ieee.org/document/11128834/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/jren03/mt_pi_codebase"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://ieeexplore.ieee.org/document/11128834/"
+    },
+    "robotics_2022_2026_egodata::DART/DexHub": {
+      "imageUrl": "/snapshots/4491e32650d2d537.webp",
+      "pageUrl": "https://ieeexplore.ieee.org/document/11128299/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://ieeexplore.ieee.org/document/11128299/"
+    },
+    "robotics_2022_2026_egodata::Robot Utility Models": {
+      "imageUrl": "/snapshots/1dddb154b74cad24.webp",
+      "pageUrl": "https://ieeexplore.ieee.org/document/11127857/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/haritheja-e/robot-utility-models"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://ieeexplore.ieee.org/document/11127857/"
+    },
+    "robotics_2022_2026_egodata::HuDOR": {
+      "imageUrl": "/snapshots/cb48aaa18eb7dd36.webp",
+      "pageUrl": "https://object-rewards.github.io/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/irmakguzey/object-rewards"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official page section",
+      "visualSourceUrl": "https://object-rewards.github.io/"
+    },
+    "robotics_2022_2026_egodata::Robo-DM": {
+      "imageUrl": "/snapshots/74b16ec0a48a4161.webp",
+      "pageUrl": "https://doi.org/10.1109/ICRA55743.2025.11128693",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://doi.org/10.1109/ICRA55743.2025.11128693"
+    },
+    "robotics_2022_2026_egodata::VITRA": {
+      "imageUrl": "/snapshots/23a24a7d5b991aee.webp",
+      "pageUrl": "https://microsoft.github.io/VITRA/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/microsoft/VITRA"
+      ],
+      "gpuRequirement": "Minimum inference: 16GB VRAM; training recommendation: NVIDIA A100 / H100.",
+      "gpuSource": "https://github.com/microsoft/VITRA#11-training--inference-requirements",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://microsoft.github.io/VITRA/static/images/teaser.jpg"
+    },
+    "robotics_2022_2026_egodata::FreeTacMan": {
+      "imageUrl": "/snapshots/63ad02215830abbc.webp",
+      "pageUrl": "https://github.com/OpenDriveLab/FreeTacMan",
+      "status": "source-image",
+      "github": [
+        "https://github.com/OpenDriveLab/FreeTacMan"
+      ],
+      "gpuRequirement": "Compatibility requirement: CUDA 11.0+; GPU model / VRAM not reported.",
+      "gpuSource": "https://github.com/OpenDriveLab/FreeTacMan/blob/main/README.md",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://opengraph.githubassets.com/b8efc9f5e2e4bfe1da08b57dc9ade9e779f9b820833bdce9f0da492c67c46b02/OpenDriveLab/FreeTacMan"
+    },
+    "robotics_2022_2026_egodata::Developing VLA Models from Egocentric Videos (egoVLA)": {
+      "imageUrl": "/snapshots/53e848f889e12697.webp",
+      "pageUrl": "https://github.com/Biscue5/egoVLA",
+      "status": "source-image",
+      "github": [
+        "https://github.com/Biscue5/egoVLA"
+      ],
+      "gpuRequirement": "Reported topology: 8-GPU DDP for paper experiments; quick single-GPU run supported; model / VRAM not stated.",
+      "gpuSource": "https://github.com/Biscue5/egoVLA#training",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://opengraph.githubassets.com/8f47be84b181164d77a723404973e5e5a0bca407a0c101bf29ed8c25b83255e7/Biscue5/egoVLA"
+    },
+    "robotics_2022_2026_egodata::HAND Me the Data": {
+      "imageUrl": "/snapshots/d856b80de8d64702.webp",
+      "pageUrl": "https://liralab.usc.edu/handretrieval/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/handretrieval/hand"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://liralab.usc.edu/handretrieval/static/images/real_robot_tasks.png"
+    },
+    "robotics_2022_2026_egodata::RoboTube": {
+      "imageUrl": "/snapshots/31bc06a1e43d0f21.webp",
+      "pageUrl": "https://proceedings.mlr.press/v205/xiong23a.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v205/xiong23a/xiong23a.pdf"
+    },
+    "robotics_2022_2026_egodata::VideoDex": {
+      "imageUrl": "/snapshots/181a2c4b6281628c.webp",
+      "pageUrl": "https://proceedings.mlr.press/v205/shaw23a.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v205/shaw23a/shaw23a.pdf"
+    },
+    "robotics_2022_2026_egodata::R3M": {
+      "imageUrl": "/snapshots/77fa9419907da6cf.webp",
+      "pageUrl": "https://proceedings.mlr.press/v205/nair23a.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v205/nair23a/nair23a.pdf"
+    },
+    "robotics_2022_2026_egodata::HERD": {
+      "imageUrl": "/snapshots/cb7fd2c031eb4696.webp",
+      "pageUrl": "https://proceedings.mlr.press/v205/liu23b.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v205/liu23b/liu23b.pdf"
+    },
+    "robotics_2022_2026_egodata::Cross-Domain Transfer via Semantic Skill Imitation": {
+      "imageUrl": "/snapshots/9838ab4487280302.webp",
+      "pageUrl": "https://proceedings.mlr.press/v205/pertsch23a.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v205/pertsch23a/pertsch23a.pdf"
+    },
+    "robotics_2022_2026_egodata::MimicPlay": {
+      "imageUrl": "/snapshots/5cdd8cfda0a680fa.webp",
+      "pageUrl": "https://proceedings.mlr.press/v229/wang23a.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/j96w/MimicPlay"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v229/wang23a/wang23a.pdf"
+    },
+    "robotics_2022_2026_egodata::MimicGen": {
+      "imageUrl": "/snapshots/21d82e23cad047fc.webp",
+      "pageUrl": "https://proceedings.mlr.press/v229/mandlekar23a.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/NVlabs/mimicgen"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v229/mandlekar23a/mandlekar23a.pdf"
+    },
+    "robotics_2022_2026_egodata::BridgeData V2": {
+      "imageUrl": "/snapshots/1df2374ca9bd164d.webp",
+      "pageUrl": "https://proceedings.mlr.press/v229/walke23a.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v229/walke23a/walke23a.pdf"
+    },
+    "robotics_2022_2026_egodata::XSkill": {
+      "imageUrl": "/snapshots/8bb82f89cbbf302e.webp",
+      "pageUrl": "https://proceedings.mlr.press/v229/xu23a.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/real-stanford/xskill"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v229/xu23a/xu23a.pdf"
+    },
+    "robotics_2022_2026_egodata::DEFT": {
+      "imageUrl": "/snapshots/715fb2f408b79e6d.webp",
+      "pageUrl": "https://proceedings.mlr.press/v229/kannan23a.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v229/kannan23a/kannan23a.pdf"
+    },
+    "robotics_2022_2026_egodata::An Unbiased Look at Datasets for Visuo-Motor Pre-Training": {
+      "imageUrl": "/snapshots/b1abb65cc9b6e63b.webp",
+      "pageUrl": "https://proceedings.mlr.press/v229/dasari23a.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://proceedings.mlr.press/v229/dasari23a/dasari23a.pdf"
+    },
+    "robotics_2022_2026_egodata::OKAMI": {
+      "imageUrl": "/snapshots/7230175b8bd6e098.webp",
+      "pageUrl": "https://proceedings.mlr.press/v270/li25a.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/UT-Austin-RPL/OKAMI"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v270/main/assets/li25a/li25a.pdf"
+    },
+    "robotics_2022_2026_egodata::Flow as the Cross-domain Manipulation Interface (Im2Flow2Act)": {
+      "imageUrl": "/snapshots/e56253f3037c44e6.webp",
+      "pageUrl": "https://proceedings.mlr.press/v270/xu25a.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/real-stanford/im2Flow2Act"
+      ],
+      "gpuRequirement": "Minimum combined runtime: ≥24GB GPU memory for online point tracking + policy inference.",
+      "gpuSource": "https://github.com/real-stanford/im2Flow2Act#flow-conditioned-policy",
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v270/main/assets/xu25a/xu25a.pdf"
+    },
+    "robotics_2022_2026_egodata::MimicTouch": {
+      "imageUrl": "/snapshots/b234f3abe7363a8d.webp",
+      "pageUrl": "https://proceedings.mlr.press/v270/yu25c.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v270/main/assets/yu25c/yu25c.pdf"
+    },
+    "robotics_2022_2026_egodata::Open-TeleVision": {
+      "imageUrl": "/snapshots/e497bfda31306005.webp",
+      "pageUrl": "https://proceedings.mlr.press/v270/cheng25b.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/OpenTeleVision/TeleVision"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v270/main/assets/cheng25b/cheng25b.pdf"
+    },
+    "robotics_2022_2026_egodata::ACE": {
+      "imageUrl": "/snapshots/e14cb710455ba8ca.webp",
+      "pageUrl": "https://proceedings.mlr.press/v270/yang25d.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/ACETeleop/ACETeleop"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v270/main/assets/yang25d/yang25d.pdf"
+    },
+    "robotics_2022_2026_egodata::OmniH2O": {
+      "imageUrl": "/snapshots/31b7de13da9493d3.webp",
+      "pageUrl": "https://proceedings.mlr.press/v270/he25b.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/LeCAR-Lab/human2humanoid"
+      ],
+      "gpuRequirement": "Reported deployment: Jetson Orin NX 16GB; training minimum not reported.",
+      "gpuSource": "https://github.com/LeCAR-Lab/human2humanoid",
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v270/main/assets/he25b/he25b.pdf"
+    },
+    "robotics_2022_2026_egodata::Object-Centric Dexterous Manipulation from Human Motion Data": {
+      "imageUrl": "/snapshots/ffad5615d65b6adf.webp",
+      "pageUrl": "https://proceedings.mlr.press/v270/chen25f.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v270/main/assets/chen25f/chen25f.pdf"
+    },
+    "robotics_2022_2026_egodata::DexUMI": {
+      "imageUrl": "/snapshots/5167931bbc9084ba.webp",
+      "pageUrl": "https://proceedings.mlr.press/v305/xu25b.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/real-stanford/DexUMI"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v305/main/assets/xu25b/xu25b.pdf"
+    },
+    "robotics_2022_2026_egodata::Human2Sim2Robot": {
+      "imageUrl": "/snapshots/2bb6ec769a837af0.webp",
+      "pageUrl": "https://proceedings.mlr.press/v305/lum25a.html",
+      "status": "source-image",
+      "github": [
+        "https://github.com/tylerlum/human2sim2robot"
+      ],
+      "gpuRequirement": "Tested setup, not minimum: NVIDIA RTX 4090 on Ubuntu 20.04.",
+      "gpuSource": "https://github.com/tylerlum/human2sim2robot/blob/main/docs/installation.md",
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v305/main/assets/lum25a/lum25a.pdf"
+    },
+    "robotics_2022_2026_egodata::MimicFunc": {
+      "imageUrl": "/snapshots/dc2a0590be063c0c.webp",
+      "pageUrl": "https://proceedings.mlr.press/v305/tang25a.html",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://raw.githubusercontent.com/mlresearch/v305/main/assets/tang25a/tang25a.pdf"
+    },
+    "robotics_2022_2026_egodata::Bunny-VisionPro": {
+      "imageUrl": "/snapshots/c95643dcd311c30e.webp",
+      "pageUrl": "https://doi.org/10.1109/IROS60139.2025.11247017",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official source page",
+      "visualSourceUrl": "https://doi.org/10.1109/IROS60139.2025.11247017"
+    },
+    "supplemental_releases_2022_2026::EPIC-KITCHENS-100/Rescaling Egocentric Vision": {
+      "imageUrl": "/snapshots/6b2908a1b089eefb.webp",
+      "pageUrl": "https://epic-kitchens.github.io/2025",
+      "status": "source-image",
+      "github": [
+        "https://github.com/epic-kitchens/epic-kitchens-100-annotations",
+        "https://github.com/epic-kitchens/epic-kitchens-100-object-masks",
+        "https://github.com/epic-kitchens/epic-kitchens-download-scripts"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://epic-kitchens.github.io/static/img/challenges-epic-100/VOS.png"
+    },
+    "supplemental_releases_2022_2026::EgoClip/Egocentric Video-Language Pretraining": {
+      "imageUrl": "/snapshots/74cabe063c3bc573.webp",
+      "pageUrl": "https://arxiv.org/abs/2206.01670",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2206.01670v2/case1.png"
+    },
+    "supplemental_releases_2022_2026::Aria Everyday Activities (AEA)": {
+      "imageUrl": "/snapshots/52607852ed511c69.webp",
+      "pageUrl": "https://facebookresearch.github.io/projectaria_tools/docs/open_datasets/aria_everyday_activities_dataset",
+      "status": "source-image",
+      "github": [
+        "https://github.com/facebookresearch/projectaria_tools"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://facebookresearch.github.io/projectaria_tools/docs/open_datasets/aria_everyday_activities_dataset"
+    },
+    "supplemental_releases_2022_2026::WiLoR: End-to-end 3D Hand Localization and Reconstruction": {
+      "imageUrl": "/snapshots/52859cb22410235f.webp",
+      "pageUrl": "https://arxiv.org/abs/2409.12259",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2409.12259v2/Dataset_Samples_compressed.png"
+    },
+    "supplemental_releases_2022_2026::MoGe: Monocular Geometry Estimation": {
+      "imageUrl": "/snapshots/2af75abee508c555.webp",
+      "pageUrl": "https://arxiv.org/abs/2410.19115",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2410.19115v3/rank_v5.png"
+    },
+    "supplemental_releases_2022_2026::EgoMimic": {
+      "imageUrl": "/snapshots/1b200321215b6648.webp",
+      "pageUrl": "https://egomimic.github.io/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/SimarKareer/EgoMimic",
+        "https://github.com/SimarKareer/EgoMimic-Eve"
+      ],
+      "gpuRequirement": "Reported training: 4× NVIDIA A40, ~24 h; rollout: RTX 4090.",
+      "gpuSource": "https://egomimic.github.io/static/files/egomimic-supplementary.pdf",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://egomimic.github.io/"
+    },
+    "supplemental_releases_2022_2026::HaWoR: World-Space Hand Motion Reconstruction": {
+      "imageUrl": "/snapshots/7df7fff551af179e.webp",
+      "pageUrl": "https://arxiv.org/abs/2501.02973",
+      "status": "source-image",
+      "github": [
+        "https://github.com/ThunderVVV/HaWoR"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2501.02973v1/Method.png"
+    },
+    "supplemental_releases_2022_2026::VGGT: Visual Geometry Grounded Transformer": {
+      "imageUrl": "/snapshots/4fd320631caf98d4.webp",
+      "pageUrl": "https://arxiv.org/abs/2503.11651",
+      "status": "source-image",
+      "github": [
+        "https://github.com/facebookresearch/vggt"
+      ],
+      "gpuRequirement": "… numbers of input frames. Measurements are conducted using a single NVIDIA H100 GPU with flash attention v3",
+      "gpuSource": "https://arxiv.org/html/2503.11651",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2503.11651v1/architecture_v4.png"
+    },
+    "supplemental_releases_2022_2026::EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos": {
+      "imageUrl": "/snapshots/0eb0f3012a24661d.webp",
+      "pageUrl": "https://arxiv.org/abs/2507.12440",
+      "status": "source-image",
+      "github": [
+        "https://github.com/RchalYang/EgoVLA_Release",
+        "https://github.com/quincy-u/Ego_Humanoid_Manipulation_Benchmark"
+      ],
+      "gpuRequirement": "Reported training: EgoVLA 32× NVIDIA A100; ACT baselines 3× NVIDIA RTX A4000; VRAM not stated.",
+      "gpuSource": "https://openreview.net/pdf?id=TLNT7JmNsf",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2507.12440v3/VLM-Pipeline-V13-Proprio.png"
+    },
+    "supplemental_releases_2022_2026::OpenEgo": {
+      "imageUrl": "/snapshots/809557e4d27975c1.webp",
+      "pageUrl": "https://www.openegocentric.com/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "paper preview",
+      "visualSourceUrl": "https://arxiv.org/pdf/2509.05513"
+    },
+    "supplemental_releases_2022_2026::Egocentric-100K (Build)": {
+      "imageUrl": "/snapshots/f35f43433bde70fa.webp",
+      "pageUrl": "https://huggingface.co/datasets/builddotai/Egocentric-100K",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/builddotai/Egocentric-100K.png"
+    },
+    "supplemental_releases_2022_2026::World In Your Hands (WiYH)": {
+      "imageUrl": "/snapshots/9a0c10534401909b.webp",
+      "pageUrl": "https://github.com/tars-robotics/World-In-Your-Hands",
+      "status": "source-image",
+      "github": [
+        "https://github.com/tars-robotics/World-In-Your-Hands"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://opengraph.githubassets.com/9ef24e77ed38fa85951aac604d305319560005056b17a41aa6b34b13171e3474/tars-robotics/World-In-Your-Hands"
+    },
+    "supplemental_releases_2022_2026::DreamDojo/DreamDojo-HV": {
+      "imageUrl": "/snapshots/supplemental_releases_2022_2026--dreamdojo.png",
+      "pageUrl": "https://dreamdojo-world.github.io/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/NVIDIA/DreamDojo"
+      ],
+      "gpuRequirement": "Distilled 2B student: one NVIDIA H100 for 640×480 autoregressive generation at 10.81 FPS; official training launch configurations are distributed multi-GPU.",
+      "gpuSource": "https://arxiv.org/abs/2602.06949",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://dreamdojo-world.github.io/overview.png"
+    },
+    "supplemental_releases_2022_2026::EgoScale": {
+      "imageUrl": "/snapshots/7dff52419f9bddeb.webp",
+      "pageUrl": "https://research.nvidia.com/labs/gear/egoscale/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://research.nvidia.com/labs/gear/egoscale/videos/Pipeline.svg"
+    },
+    "supplemental_releases_2022_2026::WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos": {
+      "imageUrl": "/snapshots/6f6f7ddf1623d548.webp",
+      "pageUrl": "https://arxiv.org/abs/2602.22209",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2602.22209v1/method.png"
+    },
+    "supplemental_releases_2022_2026::EgoAVFlow: Robot Policy Learning with Active Vision from Human Egocentric Videos via 3D Flow": {
+      "imageUrl": "/snapshots/0dbb5c3a47109687.webp",
+      "pageUrl": "https://arxiv.org/abs/2602.22461",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2602.22461v1/thumbnail-v11.png"
+    },
+    "supplemental_releases_2022_2026::HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations": {
+      "imageUrl": "/snapshots/f135a9f923f95e4b.webp",
+      "pageUrl": "https://arxiv.org/abs/2603.03243",
+      "status": "source-image",
+      "github": [
+        "https://github.com/xxm19/hommi"
+      ],
+      "gpuRequirement": "accelerate launch --mixed precision bf16 --num processes 8 --multi gpu --gradient accumulation steps 4 -- /path/to/train.py [args...]",
+      "gpuSource": "https://github.com/xxm19/hommi",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2603.03243v2/pipeline-v4-raster.png"
+    },
+    "supplemental_releases_2022_2026::DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos": {
+      "imageUrl": "/snapshots/a7064c45bafa13c7.webp",
+      "pageUrl": "https://arxiv.org/abs/2602.10105",
+      "status": "source-image",
+      "github": [
+        "https://github.com/mujc2021/DexImit-Open"
+      ],
+      "gpuRequirement": "Recommended: manual annotation 1× RTX 4090 / 3090 24GB; Qwen annotation 2× RTX 4090 (48GB total) or 1× A100 80GB.",
+      "gpuSource": "https://github.com/mujc2021/DexImit-Open#compute-requirements",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2602.10105v1/src/pipeline_new.png"
+    },
+    "supplemental_releases_2022_2026::Xperience-10M": {
+      "imageUrl": "/snapshots/d2f4eedd0dbe85ba.webp",
+      "pageUrl": "https://huggingface.co/datasets/ropedia-ai/xperience-10m",
+      "status": "source-image",
+      "github": [
+        "https://github.com/Ropedia/HOMIE-toolkit"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/ropedia-ai/xperience-10m.png"
+    },
+    "supplemental_releases_2022_2026::EgoVerse": {
+      "imageUrl": "/snapshots/44c4c26b08ae4cdc.webp",
+      "pageUrl": "https://egoverse.ai/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/GaTech-RL2/EgoVerse"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://egoverse.ai/assets/img/egoverse-mark.svg"
+    },
+    "supplemental_releases_2022_2026::EgoLive/JoyEgoCam": {
+      "imageUrl": "/snapshots/6764f1c0593515e9.webp",
+      "pageUrl": "https://arxiv.org/abs/2604.23570",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2604.23570v1/figs/cover.png"
+    },
+    "supplemental_releases_2022_2026::MobileEgo Anywhere/STERA/STERA-10M": {
+      "imageUrl": "/snapshots/fb0e38a8ac3a39ec.webp",
+      "pageUrl": "https://arxiv.org/abs/2605.05945",
+      "status": "source-image",
+      "github": [
+        "https://github.com/fpv-labs/stera-sdk"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2605.05945v7/images/capture_person.jpeg"
+    },
+    "supplemental_releases_2022_2026::HumanNet": {
+      "imageUrl": "/snapshots/c04b634c061db16c.webp",
+      "pageUrl": "https://arxiv.org/abs/2605.06747",
+      "status": "source-image",
+      "github": [
+        "https://github.com/DAGroup-PKU/HumanNet"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2605.06747v1/teaser.png"
+    },
+    "supplemental_releases_2022_2026::HumanEgo": {
+      "imageUrl": "/snapshots/bd1b984bdbaf99d2.webp",
+      "pageUrl": "https://humanego-ai.github.io/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/TX-Leo/HumanEgo",
+        "https://github.com/humanego-ai/humanego-ai.github.io"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://humanego-ai.github.io/static/images/teaser.png"
+    },
+    "supplemental_releases_2022_2026::BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding": {
+      "imageUrl": "/snapshots/84beb8ffbd8985b0.webp",
+      "pageUrl": "https://arxiv.org/abs/2605.12074",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2605.12074v1/ramblr_gfx_barista_001_03_260504_fig_01_FIN_ALT.png"
+    },
+    "supplemental_releases_2022_2026::TouchAnything/EgoTouch": {
+      "imageUrl": "/snapshots/2100c3e389b15f9e.webp",
+      "pageUrl": "https://arxiv.org/abs/2605.13083",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2605.13083v1/teaser.png"
+    },
+    "supplemental_releases_2022_2026::EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation": {
+      "imageUrl": "/snapshots/94ae0c33e951ce1f.webp",
+      "pageUrl": "https://arxiv.org/abs/2605.18214",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2605.18214v2/images/episodes_small.png"
+    },
+    "supplemental_releases_2022_2026::Do As I Do: Dexterous Manipulation Data from Everyday Human Videos": {
+      "imageUrl": "/snapshots/86925dcd1ef6a8e1.webp",
+      "pageUrl": "https://arxiv.org/abs/2606.19333",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2606.19333v1/figures/title.jpg"
+    },
+    "supplemental_releases_2022_2026::ActiveMimic: Egocentric Video Pretraining with Active Perception": {
+      "imageUrl": "/snapshots/3526441d7876ac08.webp",
+      "pageUrl": "https://arxiv.org/abs/2606.06194",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2606.06194v1/teaser.png"
+    },
+    "supplemental_releases_2022_2026::EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations": {
+      "imageUrl": "/snapshots/a79f0718cf41687c.webp",
+      "pageUrl": "https://arxiv.org/abs/2606.12604",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": "…ency by 22.0%, from 2.36 demos/hour with RL to 2.88 demos/hour on a single RTX 4090 without parallelization.",
+      "gpuSource": "https://arxiv.org/html/2606.12604",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2606.12604v1/teaserfig.png"
+    },
+    "supplemental_releases_2022_2026::Open-AoE-2000H": {
+      "imageUrl": "/snapshots/b61ec702932726ce.webp",
+      "pageUrl": "https://github.com/ant-research/Open-AoE",
+      "status": "source-image",
+      "github": [
+        "https://github.com/ant-research/Open-AoE"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://opengraph.githubassets.com/7b13634f6fd3fbacb0d7f07f7707ad941cad2834c360e36331ea579e90b5919b/ant-research/Open-AoE"
+    },
+    "supplemental_releases_2022_2026::ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine": {
+      "imageUrl": "/snapshots/152493b694c69e15.webp",
+      "pageUrl": "https://arxiv.org/abs/2607.28625",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://arxiv.org/html/2607.28625v1/images/setup_ace-r.png"
+    },
+    "supplemental_releases_2022_2026::Ego2Robot": {
+      "imageUrl": "/snapshots/557666a2cd327d23.webp",
+      "pageUrl": "https://www-ye.github.io/ego2robot_blog/",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": "run uses identical hyperparameters (200K steps × batch 12 × 8 GPUs) and thus processes the same ~19.2M frames, so comparisons are fair regardless of dataset size.",
+      "gpuSource": "https://www-ye.github.io/ego2robot_blog/",
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://www-ye.github.io/ego2robot_blog/assets/fig1_ego2r_pipeline.png"
+    },
+    "supplemental_releases_2022_2026::RekaDaily-10k (raw)": {
+      "imageUrl": "/snapshots/7c5e7e3e1acd41e5.webp",
+      "pageUrl": "https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/RekaAI/RekaDaily-10k-raw.png"
+    },
+    "supplemental_releases_2022_2026::EgoSuite-Open100K": {
+      "imageUrl": "/snapshots/ad2b01be4b246983.webp",
+      "pageUrl": "https://huggingface.co/blog/LightwheelAI/egosuite-open100k",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://cdn-uploads.huggingface.co/production/uploads/64a88e3e03835e13f95f8e9a/ntZ6N63CZnyWW6JSLaw3r.png"
+    },
+    "supplemental_releases_2022_2026::ABC-130K/Scalable Behavior Cloning with Open Data, Training, and Evaluation": {
+      "imageUrl": "/snapshots/1c4f3d95fb70fb3c.webp",
+      "pageUrl": "https://huggingface.co/datasets/XDOF/ABC-130k",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/XDOF/ABC-130k.png"
+    },
+    "supplemental_releases_2022_2026::Gen-EgoData (public sample)": {
+      "imageUrl": "/snapshots/5ce82ccf6cddc7be.webp",
+      "pageUrl": "https://huggingface.co/datasets/genrobot2025/Gen-EgoData",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/genrobot2025/Gen-EgoData.png"
+    },
+    "supplemental_releases_2022_2026::ACE-Ego-Hand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery": {
+      "imageUrl": "/snapshots/ef0175bb6185664e.webp",
+      "pageUrl": "https://ggxxii.github.io/ACE-Ego-Hand/",
+      "status": "source-image",
+      "github": [
+        "https://github.com/ggxxii/ACE-Ego-Hand"
+      ],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "project / paper figure",
+      "visualSourceUrl": "https://raw.githubusercontent.com/ggxxii/ACE-Ego-Hand/main/assets/teaser.png"
+    },
+    "supplemental_releases_2022_2026::HomER v2: Home Egocentric Robotics Dataset": {
+      "imageUrl": "/snapshots/78a727e344175fee.webp",
+      "pageUrl": "https://huggingface.co/datasets/toloka/homer-v2",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official dataset preview",
+      "visualSourceUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/toloka/homer-v2.png"
+    },
+    "supplemental_releases_2022_2026::UniData Egocentric Dataset for Physical AI and Robotics": {
+      "imageUrl": "/snapshots/81aad498045e2fdd.webp",
+      "pageUrl": "https://huggingface.co/datasets/UnidataRobotics/egocentric-video",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official dataset preview",
+      "visualSourceUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/UnidataRobotics/egocentric-video.png"
+    },
+    "supplemental_releases_2022_2026::Humanola Egocentric Hand-Pose Sample": {
+      "imageUrl": "/snapshots/4bf43943efcf6c9e.webp",
+      "pageUrl": "https://huggingface.co/datasets/humanola-inc/egocentric-sample",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official dataset preview",
+      "visualSourceUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/humanola-inc/egocentric-sample.png"
+    },
+    "supplemental_releases_2022_2026::GEN-1: Towards Machines with a Thousand Hands": {
+      "imageUrl": "/snapshots/92d28b305e9e0ff7.webp",
+      "pageUrl": "https://generalistai.com/blog/towards-machines-with-a-thousand-hands",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official project figure",
+      "visualSourceUrl": "https://generalistai.com/assets/pages/blog/towards-machines-with-a-thousand-hands/assets/images/generalist-many-hands-open-graph.jpg"
+    },
+    "supplemental_releases_2022_2026::GEN-1.5: Embodied Foundation Models are One-Shot Learners": {
+      "imageUrl": "/snapshots/acf77fe9a6afcd60.webp",
+      "pageUrl": "https://generalistai.com/blog/gen-1.5",
+      "status": "source-image",
+      "github": [],
+      "gpuRequirement": null,
+      "gpuSource": null,
+      "visualType": "official project figure",
+      "visualSourceUrl": "https://generalistai.com/assets/pages/blog/gen-1.5/assets/images/generalist-gen1p5-og.jpg"
+    }
+  },
+  "visualMethodology": "Local, source-owned thumbnails only: official project/paper figures and video thumbnails first; otherwise a rendered official paper preview or exact official page section. No generated template cards and no third-party search thumbnails."
+}

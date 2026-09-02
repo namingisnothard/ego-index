@@ -1,0 +1,4034 @@
+{
+  "snapshotDate": "2026-09-02",
+  "methodology": {
+    "citations": "OpenAlex cited_by_count, Crossref is-referenced-by-count, or Semantic Scholar citationCount for directly linked arXiv/DOI records; title matched with year-aware confidence. Counts differ by index and change over time.",
+    "huggingFace": "Hugging Face Hub downloads field (rolling 30-day count) and likes for directly linked repositories.",
+    "github": "GitHub repository stars and forks for directly linked repositories.",
+    "usedBy": "Only other catalog pipelines/models that explicitly name this record in an input, output, scale, or access field.",
+    "evidence": "Four transparent checks: exact release date, reported quantitative scale, direct source link, and non-announcement access evidence.",
+    "institutions": "Publication-time author institutions resolved from OpenAlex work metadata after strict title/year matching. Empty means not verified, not unaffiliated."
+  },
+  "records": {
+    "cv_2022_2026_egodata::Ego4D": {
+      "citations": {
+        "count": 630,
+        "workTitle": "Ego4D: Around the World in 3,000 Hours of Egocentric Video",
+        "workUrl": "https://doi.org/10.1109/cvpr52688.2022.01842",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [
+        {
+          "name": "Egocentric Video Task Translation/EgoT2",
+          "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Xue_Egocentric_Video_Task_Translation_CVPR_2023_paper.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "EgoPack",
+          "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Peirone_A_Backpack_Full_of_Skills_Egocentric_Video_Understanding_with_Diverse_CVPR_2024_paper.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "Embodied VideoAgent",
+          "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Fan_Embodied_VideoAgent_Persistent_Memory_from_Egocentric_Videos_and_Embodied_Sensors_ICCV_2025_paper.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "Head2Body",
+          "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Tran_Head2Body_Body_Pose_Generation_from_Multi-sensory_Head-mounted_Inputs_ICCV_2025_paper.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "Egocentric Activity Recognition and Localization on a 3D Map",
+          "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1709_ECCV_2022_paper.php",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "Ex2Eg-MAE",
+          "url": "https://eccv.ecva.net/virtual/2024/poster/719",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        }
+      ],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "The University of Texas at Austin",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I86519309"
+        },
+        {
+          "name": "University of Minnesota System",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I2800403580"
+        },
+        {
+          "name": "University of Catania",
+          "countryCode": "IT",
+          "type": "education",
+          "url": "https://openalex.org/I39063666"
+        },
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        },
+        {
+          "name": "Georgia Institute of Technology",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I130701444"
+        },
+        {
+          "name": "Carnegie Mellon University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I74973139"
+        },
+        {
+          "name": "Berkeley College",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I134446601"
+        },
+        {
+          "name": "University of California, Berkeley",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I95457486"
+        },
+        {
+          "name": "University of Bristol",
+          "countryCode": "GB",
+          "type": "education",
+          "url": "https://openalex.org/I36234482"
+        },
+        {
+          "name": "King Abdullah University of Science and Technology",
+          "countryCode": "SA",
+          "type": "education",
+          "url": "https://openalex.org/I71920554"
+        },
+        {
+          "name": "National University of Singapore",
+          "countryCode": "SG",
+          "type": "education",
+          "url": "https://openalex.org/I165932596"
+        },
+        {
+          "name": "International Institute of Information Technology, Hyderabad",
+          "countryCode": "IN",
+          "type": "education",
+          "url": "https://openalex.org/I64189192"
+        },
+        {
+          "name": "Carnegie Mellon University Africa",
+          "countryCode": "RW",
+          "type": "education",
+          "url": "https://openalex.org/I4210130200"
+        },
+        {
+          "name": "Universidad de Los Andes",
+          "countryCode": "BO",
+          "type": "education",
+          "url": "https://openalex.org/I4210143738"
+        },
+        {
+          "name": "The University of Tokyo",
+          "countryCode": "JP",
+          "type": "education",
+          "url": "https://openalex.org/I74801974"
+        },
+        {
+          "name": "Indiana University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I592451"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::HOI4D": {
+      "citations": {
+        "count": 165,
+        "workTitle": "HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction",
+        "workUrl": "https://doi.org/10.1109/cvpr52688.2022.02034",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "ShangHai JiAi Genetics & IVF Institute",
+          "countryCode": "CN",
+          "type": "healthcare",
+          "url": "https://openalex.org/I4210122302"
+        },
+        {
+          "name": "Tsinghua University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I99065089"
+        },
+        {
+          "name": "Peking University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I20231570"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Egocentric Prediction of Action Target in 3D/EgoPAT3D": {
+      "citations": {
+        "count": 22,
+        "workTitle": "Egocentric Prediction of Action Target in 3D",
+        "workUrl": "https://doi.org/10.1109/cvpr52688.2022.02033",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "New York University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I57206974"
+        },
+        {
+          "name": "Tongji University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I116953780"
+        },
+        {
+          "name": "Tsinghua University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I99065089"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Assembly101": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [
+        {
+          "name": "Synchronization Is All You Need",
+          "url": "https://eccv.ecva.net/virtual/2024/poster/333",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "Put Myself in Your Shoes/Exo2Ego",
+          "url": "https://eccv.ecva.net/virtual/2024/poster/2127",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "EgoWorld",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1f381fed970b3a8c7f97d74dfc5b510c-Abstract-Conference.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        }
+      ],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Scene-Aware Egocentric 3D Human Pose Estimation": {
+      "citations": {
+        "count": 63,
+        "workTitle": "Scene-Aware Egocentric 3D Human Pose Estimation",
+        "workUrl": "https://doi.org/10.1109/cvpr52729.2023.01252",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "Saarland University",
+          "countryCode": "DE",
+          "type": "education",
+          "url": "https://openalex.org/I91712215"
+        },
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        },
+        {
+          "name": "Google (United States)",
+          "countryCode": "US",
+          "type": "company",
+          "url": "https://openalex.org/I1291425158"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Egocentric Audio-Visual Object Localization": {
+      "citations": {
+        "count": 39,
+        "workTitle": "Egocentric Audio-Visual Object Localization",
+        "workUrl": "https://doi.org/10.1109/cvpr52729.2023.02194",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "University of Rochester",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I5388228"
+        },
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Egocentric Video Task Translation/EgoT2": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "The University of Texas at Austin",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I86519309"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Chat2Map": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Ego-Exo4D": {
+      "citations": {
+        "count": 149,
+        "workTitle": "Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives",
+        "workUrl": "https://doi.org/10.1109/cvpr52733.2024.01834",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [
+        {
+          "name": "4Diff",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3536_ECCV_2024_paper.php",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "Exocentric-to-Egocentric Video Generation (Exo2Ego-V)",
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/f5a8b5e5d007e66c929b971c2bc21d76-Abstract-Conference.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "EgoChoir",
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/61f9cc83f684a4979929804ba8abf027-Abstract-Conference.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "EgoWorld",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1f381fed970b3a8c7f97d74dfc5b510c-Abstract-Conference.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "EgoHandICL",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/3a7cb31c8f4fa170aaa38f0e28d6042e-Abstract-Conference.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        }
+      ],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "University of Bristol",
+          "countryCode": "GB",
+          "type": "education",
+          "url": "https://openalex.org/I36234482"
+        },
+        {
+          "name": "University of Illinois Urbana-Champaign",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I157725225"
+        },
+        {
+          "name": "University of Minnesota System",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I2800403580"
+        },
+        {
+          "name": "National University of Singapore",
+          "countryCode": "SG",
+          "type": "education",
+          "url": "https://openalex.org/I165932596"
+        },
+        {
+          "name": "Carnegie Mellon University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I74973139"
+        },
+        {
+          "name": "International Institute of Information Technology, Hyderabad",
+          "countryCode": "IN",
+          "type": "education",
+          "url": "https://openalex.org/I64189192"
+        },
+        {
+          "name": "Universidad de Los Andes",
+          "countryCode": "BO",
+          "type": "education",
+          "url": "https://openalex.org/I4210143738"
+        },
+        {
+          "name": "Simon Fraser University",
+          "countryCode": "CA",
+          "type": "education",
+          "url": "https://openalex.org/I18014758"
+        },
+        {
+          "name": "University of North Carolina at Chapel Hill",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I114027177"
+        },
+        {
+          "name": "University of Catania",
+          "countryCode": "IT",
+          "type": "education",
+          "url": "https://openalex.org/I39063666"
+        },
+        {
+          "name": "The University of Texas at Austin",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I86519309"
+        },
+        {
+          "name": "California University of Pennsylvania",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I36788626"
+        },
+        {
+          "name": "The University of Tokyo",
+          "countryCode": "JP",
+          "type": "education",
+          "url": "https://openalex.org/I74801974"
+        },
+        {
+          "name": "Indiana University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I592451"
+        },
+        {
+          "name": "Johns Hopkins University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I145311948"
+        },
+        {
+          "name": "King Abdullah University of Science and Technology",
+          "countryCode": "SA",
+          "type": "education",
+          "url": "https://openalex.org/I71920554"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoExoLearn": {
+      "citations": {
+        "count": 45,
+        "workTitle": "EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World",
+        "workUrl": "https://doi.org/10.1109/cvpr52733.2024.02084",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Shanghai Artificial Intelligence Laboratory",
+          "countryCode": "CN",
+          "type": "facility",
+          "url": "https://openalex.org/I4391012619"
+        },
+        {
+          "name": "Shenzhen Institutes of Advanced Technology",
+          "countryCode": "CN",
+          "type": "facility",
+          "url": "https://openalex.org/I4210145761"
+        },
+        {
+          "name": "Nanjing University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I881766915"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoGen": {
+      "citations": {
+        "count": 17,
+        "workTitle": "EgoGen: An Egocentric Synthetic Data Generator",
+        "workUrl": "https://doi.org/10.1109/cvpr52733.2024.01374",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Microsoft Research (United Kingdom)",
+          "countryCode": "GB",
+          "type": "company",
+          "url": "https://openalex.org/I4210164937"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoThink": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Retrieval-Augmented Egocentric Video Captioning/EgoInstructor": {
+      "citations": {
+        "count": 36,
+        "workTitle": "Retrieval-Augmented Egocentric Video Captioning",
+        "workUrl": "https://doi.org/10.1109/cvpr52733.2024.01284",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Fudan University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I24943067"
+        },
+        {
+          "name": "The University of Tokyo",
+          "countryCode": "JP",
+          "type": "education",
+          "url": "https://openalex.org/I74801974"
+        },
+        {
+          "name": "Nanjing University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I881766915"
+        },
+        {
+          "name": "Shanghai Jiao Tong University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I183067930"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoPack": {
+      "citations": {
+        "count": 2,
+        "workTitle": "Hier-EgoPack: Hierarchical Egocentric Video Understanding With Diverse Task Perspectives",
+        "workUrl": "https://doi.org/10.1109/tpami.2025.3621326",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Learning Spatial Features from Audio-Visual Correspondence": {
+      "citations": {
+        "count": 7,
+        "workTitle": "Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos",
+        "workUrl": "https://doi.org/10.1109/cvpr52733.2024.02555",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "The University of Texas at Austin",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I86519309"
+        },
+        {
+          "name": "University of Utah",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I223532165"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::HOT3D": {
+      "citations": {
+        "count": 34,
+        "workTitle": "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.00662",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [
+        {
+          "name": "HaWoR: World-Space Hand Motion Reconstruction",
+          "url": "https://arxiv.org/abs/2501.02973",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        }
+      ],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::HD-EPIC": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoPressure": {
+      "citations": {
+        "count": 5,
+        "workTitle": "EgoPressure: A Dataset for Hand Pressure and Pose Estimation in Egocentric Vision",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.02582",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoLife/EgoButler": {
+      "citations": {
+        "count": 20,
+        "workTitle": "EgoLife: Towards Egocentric Life Assistant",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.02690",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "Nanyang Technological University",
+          "countryCode": "SG",
+          "type": "education",
+          "url": "https://openalex.org/I172675005"
+        },
+        {
+          "name": "Beijing University of Posts and Telecommunications",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I139759216"
+        },
+        {
+          "name": "Capital Normal University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I96852419"
+        },
+        {
+          "name": "IMDEA Networks",
+          "countryCode": "ES",
+          "type": "facility",
+          "url": "https://openalex.org/I2802499160"
+        },
+        {
+          "name": "Politecnico di Milano",
+          "countryCode": "IT",
+          "type": "education",
+          "url": "https://openalex.org/I93860229"
+        },
+        {
+          "name": "University of Brescia",
+          "countryCode": "IT",
+          "type": "education",
+          "url": "https://openalex.org/I79940851"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoLM": {
+      "citations": {
+        "count": 4,
+        "workTitle": "EgoLM: Multi-Modal Language Model of Egocentric Motions",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.00503",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        },
+        {
+          "name": "Nanyang Technological University",
+          "countryCode": "SG",
+          "type": "education",
+          "url": "https://openalex.org/I172675005"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoAllo": {
+      "citations": {
+        "count": 10,
+        "workTitle": "Estimating Body and Hand Motion in an Ego-sensed World",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.00663",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Berkeley College",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I134446601"
+        },
+        {
+          "name": "University of California, Berkeley",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I95457486"
+        },
+        {
+          "name": "ShanghaiTech University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I30809798"
+        },
+        {
+          "name": "The University of Texas at Austin",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I86519309"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::TASTE-Rob": {
+      "citations": {
+        "count": 3,
+        "workTitle": "TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.02578",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Shanghai Stock Exchange",
+          "countryCode": "CN",
+          "type": "other",
+          "url": "https://openalex.org/I4210105385"
+        },
+        {
+          "name": "Chinese University of Hong Kong, Shenzhen",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I4210116924"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::DIV-FF": {
+      "citations": {
+        "count": 0,
+        "workTitle": "DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.00329",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Universidad de Zaragoza",
+          "countryCode": "ES",
+          "type": "education",
+          "url": "https://openalex.org/I255234318"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::UniDex": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Ego-1K": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoProx": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Tsinghua University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I99065089"
+        },
+        {
+          "name": "Beijing Academy of Artificial Intelligence",
+          "countryCode": "CN",
+          "type": "other",
+          "url": "https://openalex.org/I4210100255"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::MyEgo/Ego-Grounding": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "University of Science and Technology of China",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I126520041"
+        },
+        {
+          "name": "National University of Singapore",
+          "countryCode": "SG",
+          "type": "education",
+          "url": "https://openalex.org/I165932596"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Minerva-Ego": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoControl": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoPoseFormer v2": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Aria Digital Twin": {
+      "citations": {
+        "count": 70,
+        "workTitle": "Aria Digital Twin: A New Benchmark Dataset for Egocentric 3D Machine Perception",
+        "workUrl": "https://doi.org/10.1109/iccv51070.2023.01842",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::HoloAssist": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Ego-Humans/EgoFormer": {
+      "citations": {
+        "count": 5,
+        "workTitle": "EgoFormer: Ego-Gesture Classification in Context of Autonomous Driving",
+        "workUrl": "https://doi.org/10.1109/jsen.2024.3390794",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoObjects": {
+      "citations": {
+        "count": 26,
+        "workTitle": "EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding",
+        "workUrl": "https://doi.org/10.1109/iccv51070.2023.01840",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoTV": {
+      "citations": {
+        "count": 8,
+        "workTitle": "EgoTV: Egocentric Task Verification from Natural Language Task Descriptions",
+        "workUrl": "https://doi.org/10.1109/iccv51070.2023.01414",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoPCA": {
+      "citations": {
+        "count": 9,
+        "workTitle": "EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding",
+        "workUrl": "https://doi.org/10.1109/iccv51070.2023.00486",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Shanghai Jiao Tong University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I183067930"
+        },
+        {
+          "name": "Hong Kong University of Science and Technology",
+          "countryCode": "HK",
+          "type": "education",
+          "url": "https://openalex.org/I200769079"
+        },
+        {
+          "name": "New Hope Liuhe (China)",
+          "countryCode": "CN",
+          "type": "company",
+          "url": "https://openalex.org/I4210154949"
+        },
+        {
+          "name": "Dartmouth College",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I107672454"
+        },
+        {
+          "name": "Dartmouth Hospital",
+          "countryCode": "GB",
+          "type": "healthcare",
+          "url": "https://openalex.org/I4210166639"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::InterVLA/Perceiving and Acting in First-Person": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoM2P": {
+      "citations": {
+        "count": 1,
+        "workTitle": "EgoM2P: Egocentric Multimodal Multitask Pretraining",
+        "workUrl": "https://doi.org/10.1109/iccv51701.2025.01008",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::EgoIntention/Reason-to-Ground": {
+      "citations": {
+        "count": 1,
+        "workTitle": "Visual Intention Grounding for Egocentric Assistants",
+        "workUrl": "https://doi.org/10.1109/iccv51701.2025.00242",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "National University of Singapore",
+          "countryCode": "SG",
+          "type": "education",
+          "url": "https://openalex.org/I165932596"
+        },
+        {
+          "name": "Google (United States)",
+          "countryCode": "US",
+          "type": "company",
+          "url": "https://openalex.org/I1291425158"
+        },
+        {
+          "name": "Google DeepMind (United Kingdom)",
+          "countryCode": "GB",
+          "type": "company",
+          "url": "https://openalex.org/I4210090411"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Ego4View-Syn/Ego4View-RW": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Max Planck Institute for Informatics",
+          "countryCode": "DE",
+          "type": "facility",
+          "url": "https://openalex.org/I4210109712"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Embodied VideoAgent": {
+      "citations": {
+        "count": 1,
+        "workTitle": "Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding",
+        "workUrl": "https://doi.org/10.1109/iccv51701.2025.00598",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": [
+        {
+          "name": "Beijing Academy of Artificial Intelligence",
+          "countryCode": "CN",
+          "type": "other",
+          "url": "https://openalex.org/I4210100255"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Learning Precise Affordances from Egocentric Videos": {
+      "citations": {
+        "count": 4,
+        "workTitle": "Learning Precise Affordances From Egocentric Videos for Robotic Manipulation",
+        "workUrl": "https://doi.org/10.1109/iccv51701.2025.00985",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "University of Edinburgh",
+          "countryCode": "GB",
+          "type": "education",
+          "url": "https://openalex.org/I98677209"
+        },
+        {
+          "name": "Huawei Technologies (Sweden)",
+          "countryCode": "SE",
+          "type": "company",
+          "url": "https://openalex.org/I4210159102"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::LookOut/Aria Navigation Dataset": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::ObjectRelator/HANDAL-X": {
+      "citations": {
+        "count": 4,
+        "workTitle": "ObjectRelator: Enabling Cross-View Object Relation Understanding Across Ego-Centric and Exo-Centric Perspectives",
+        "workUrl": "https://doi.org/10.1109/iccv51701.2025.00616",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Fudan University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I24943067"
+        },
+        {
+          "name": "Sofia University \"St. Kliment Ohridski\"",
+          "countryCode": "BG",
+          "type": "education",
+          "url": "https://openalex.org/I58918642"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Head2Body": {
+      "citations": {
+        "count": 0,
+        "workTitle": "Head2Body: Body Pose Generation from Multi-Sensory Head-Mounted Inputs",
+        "workUrl": "https://doi.org/10.1109/iccv51701.2025.00644",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "University of Southern California",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I1174212"
+        },
+        {
+          "name": "Amazon (United States)",
+          "countryCode": "US",
+          "type": "company",
+          "url": "https://openalex.org/I1311688040"
+        },
+        {
+          "name": "University of California, Santa Cruz",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I185103710"
+        },
+        {
+          "name": "Santa Cruz County Office of Education",
+          "countryCode": "US",
+          "type": "government",
+          "url": "https://openalex.org/I4210150247"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoBody": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::UnrealEgo": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [
+        {
+          "name": "EgoPoseFormer",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7241_ECCV_2024_paper.php",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views",
+          "url": "https://arxiv.org/abs/2309.11962",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        }
+      ],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::GIMO": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Stanford University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I97018004"
+        },
+        {
+          "name": "Tsinghua University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I99065089"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoProceL/My View Is the Best View": {
+      "citations": {
+        "count": 50,
+        "workTitle": "My View is the Best View: Procedure Learning from Egocentric Videos",
+        "workUrl": "https://doi.org/10.1007/978-3-031-19778-9_38",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "Indian Institute of Technology Hyderabad",
+          "countryCode": "IN",
+          "type": "education",
+          "url": "https://openalex.org/I65181880"
+        },
+        {
+          "name": "Indian Institute of Technology Delhi",
+          "countryCode": "IN",
+          "type": "education",
+          "url": "https://openalex.org/I68891433"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoHOS/Fine-Grained Egocentric Hand-Object Segmentation": {
+      "citations": {
+        "count": 56,
+        "workTitle": "Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications",
+        "workUrl": "https://doi.org/10.1007/978-3-031-19818-2_8",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "University of Pennsylvania",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I79576946"
+        },
+        {
+          "name": "Philadelphia University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I922845939"
+        },
+        {
+          "name": "Toyota Research Institute",
+          "countryCode": null,
+          "type": "facility",
+          "url": "https://openalex.org/I4391768151"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Egocentric Activity Recognition and Localization on a 3D Map": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Georgia Institute of Technology",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I130701444"
+        },
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        },
+        {
+          "name": "University of Wisconsin–Madison",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I135310074"
+        },
+        {
+          "name": "The University of Texas at Austin",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I86519309"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::AssistQ": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Nymeria": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [
+        {
+          "name": "EgoLM",
+          "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Hong_EgoLM_Multi-Modal_Language_Model_of_Egocentric_Motions_CVPR_2025_paper.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        },
+        {
+          "name": "Whole-Body Conditioned Egocentric Video Prediction",
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f0552f14388d95b19740dee809f5cad1-Abstract-Conference.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        }
+      ],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        },
+        {
+          "name": "Nanyang Technological University",
+          "countryCode": "SG",
+          "type": "education",
+          "url": "https://openalex.org/I172675005"
+        },
+        {
+          "name": "Max Planck Institute for Biology",
+          "countryCode": "DE",
+          "type": "facility",
+          "url": "https://openalex.org/I4210165766"
+        },
+        {
+          "name": "Stanford University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I97018004"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoBody3M": {
+      "citations": {
+        "count": 5,
+        "workTitle": "EgoBody3M: Egocentric Body Tracking on a VR Headset using a Diverse Dataset",
+        "workUrl": "https://doi.org/10.1007/978-3-031-72986-7_22",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [
+        {
+          "name": "EgoPoseFormer v2",
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_EgoPoseFormer_v2_Accurate_Egocentric_Human_Motion_Estimation_for_ARVR_CVPR_2026_paper.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        }
+      ],
+      "evidenceScore": 2,
+      "institutions": [
+        {
+          "name": "Meta (United States)",
+          "countryCode": "US",
+          "type": "company",
+          "url": "https://openalex.org/I4210114444"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoPet": {
+      "citations": {
+        "count": 4,
+        "workTitle": "EgoPet: Egomotion and Interaction Data from an Animal’s Perspective",
+        "workUrl": "https://doi.org/10.1007/978-3-031-72913-3_21",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Berkeley College",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I134446601"
+        },
+        {
+          "name": "Tel Aviv University",
+          "countryCode": "IL",
+          "type": "education",
+          "url": "https://openalex.org/I16391192"
+        },
+        {
+          "name": "University of California, Berkeley",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I95457486"
+        },
+        {
+          "name": "New York University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I57206974"
+        },
+        {
+          "name": "Google (United States)",
+          "countryCode": "US",
+          "type": "company",
+          "url": "https://openalex.org/I1291425158"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::Synchronization Is All You Need": {
+      "citations": {
+        "count": 0,
+        "workTitle": "All you need …",
+        "workUrl": "https://doi.org/10.30820/1431-7168-2025-4-28",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Put Myself in Your Shoes/Exo2Ego": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::4Diff": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Ex2Eg-MAE": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": [
+        {
+          "name": "University of Southern California",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I1174212"
+        },
+        {
+          "name": "Amazon (United States)",
+          "countryCode": "US",
+          "type": "company",
+          "url": "https://openalex.org/I1311688040"
+        },
+        {
+          "name": "National Tsing Hua University",
+          "countryCode": "TW",
+          "type": "education",
+          "url": "https://openalex.org/I25846049"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::EgoPoseFormer": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        },
+        {
+          "name": "University of Edinburgh",
+          "countryCode": "GB",
+          "type": "education",
+          "url": "https://openalex.org/I98677209"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::LEGO": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::Masked Video and Body-worn IMU Autoencoder/EVI-MAE": {
+      "citations": {
+        "count": 12,
+        "workTitle": "Masked Video and Body-Worn IMU Autoencoder for Egocentric Action Recognition",
+        "workUrl": "https://doi.org/10.1007/978-3-031-72649-1_18",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "The University of Tokyo",
+          "countryCode": "JP",
+          "type": "education",
+          "url": "https://openalex.org/I74801974"
+        }
+      ]
+    },
+    "cv_2022_2026_egodata::AMEGO": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "cv_2022_2026_egodata::3D Hand Pose Estimation in Everyday Egocentric Images": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "University of Illinois Urbana-Champaign",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I157725225"
+        }
+      ]
+    },
+    "eccv2026_egocentric_papers_with_modalities::FEEL": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EPIC-Contact": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EXPLORE-Bench": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::FlatLands": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoTraj": {
+      "citations": {
+        "count": 0,
+        "workTitle": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction",
+        "workUrl": "https://www.semanticscholar.org/paper/54044c63c8b27e60b500a0dbce4fb1e6af8171a5",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoEverything": {
+      "citations": {
+        "count": 0,
+        "workTitle": "EgoEverything: A Benchmark for Human Behavior Inspired Long Context Egocentric Video Understanding in AR Environment",
+        "workUrl": "https://www.semanticscholar.org/paper/de67a7b229d21694cb18ac99c45c63ae1c7c4943",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": [
+        {
+          "name": "New York University",
+          "countryCode": "US",
+          "type": "education",
+          "url": "https://openalex.org/I57206974"
+        }
+      ]
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoSAT": {
+      "citations": {
+        "count": 0,
+        "workTitle": "EgoSAT: A Comprehensive Benchmark of Egocentric Streaming Interaction Understanding",
+        "workUrl": "https://www.semanticscholar.org/paper/91e1c2bca7e83e1d49fac405f0ad8b18a590f2de",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::BiCE-HG": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 1,
+      "institutions": [
+        {
+          "name": "University of Sheffield",
+          "countryCode": "GB",
+          "type": "education",
+          "url": "https://openalex.org/I91136226"
+        }
+      ]
+    },
+    "eccv2026_egocentric_papers_with_modalities::Spatial Amsan": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 1,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::SEERBench": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 1,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoPolice": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::LongEgoRefer": {
+      "citations": {
+        "count": 0,
+        "workTitle": "LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension",
+        "workUrl": "https://www.semanticscholar.org/paper/ab207e685565212e27582db7d9c65e391f55a249",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoDyn-Bench": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Continuous HRV Estimation/EgoHRV": {
+      "citations": {
+        "count": 0,
+        "workTitle": "EgoHRV: Continuous Heart Rate Variability Estimation from Egocentric Systems for Autonomic Response and Skill Assessment",
+        "workUrl": "https://www.semanticscholar.org/paper/249739c65a5a4001e7ee3a9407a9622d53d223cf",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Exo2EgoPolicy": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 1,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Lifting Embodied World Models": {
+      "citations": {
+        "count": 1,
+        "workTitle": "Lifting Embodied World Models for Planning and Control",
+        "workUrl": "https://www.semanticscholar.org/paper/c058ce5da41c345c25043f0b421abcbab13b9743",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoMAN": {
+      "citations": {
+        "count": 8,
+        "workTitle": "Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos",
+        "workUrl": "https://www.semanticscholar.org/paper/2dedad930ed558b210c6b948769a3f33ee6d0c5c",
+        "confidence": "medium",
+        "source": "Semantic Scholar",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoPHI": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::STEP": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 1,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoCogNav": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Vinci2": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "SitongGong/EgoMemo",
+          "url": "https://github.com/SitongGong/EgoMemo",
+          "stars": 16,
+          "forks": 0
+        }
+      ],
+      "huggingFace": [
+        {
+          "repo": "SitongGong/EgoServe",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/SitongGong/EgoServe",
+          "downloads30d": null,
+          "likes": 0
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Beyond Language": {
+      "citations": {
+        "count": 1,
+        "workTitle": "Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision",
+        "workUrl": "https://www.semanticscholar.org/paper/222d4b43286732ade6cc0b1e09491b3d1e5910dc",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::C2E": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Learning Ego-Centric BEV": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Walk through Paintings": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::ReViV": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::ECHO": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoExoMoCap": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "eth-siplab/EgoExoMoCap",
+          "url": "https://github.com/eth-siplab/EgoExoMoCap",
+          "stars": 102,
+          "forks": 3
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::WHIP": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoGVAE": {
+      "citations": {
+        "count": 0,
+        "workTitle": "EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder",
+        "workUrl": "https://www.semanticscholar.org/paper/04d7a63b56dabcc2b3780480e0e3e1dc57b54647",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Ego3DLM/3D-Aware Ego Motion Prediction": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoSim": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoHOI": {
+      "citations": {
+        "count": 5,
+        "workTitle": "Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis",
+        "workUrl": "https://www.semanticscholar.org/paper/0855b504bf9de837e173ae3ddab64f13806027f6",
+        "confidence": "medium",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Controllable Ego Video": {
+      "citations": {
+        "count": 4,
+        "workTitle": "Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints",
+        "workUrl": "https://www.semanticscholar.org/paper/1fb5a4553c95954e4ac3a6802bbb86b2a959dbed",
+        "confidence": "medium",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::From Synchrony to Sequence": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::WorldWander": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoVITA": {
+      "citations": {
+        "count": 9,
+        "workTitle": "EgoVITA: Learning to Plan and Verify for Egocentric Video Reasoning",
+        "workUrl": "https://www.semanticscholar.org/paper/f17e6430df88a51d657c65f47b20dfe18221ca16",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::SkillSpotter": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": [
+        {
+          "name": "ETH Zurich",
+          "countryCode": "CH",
+          "type": "education",
+          "url": "https://openalex.org/I35440088"
+        }
+      ]
+    },
+    "eccv2026_egocentric_papers_with_modalities::Whareformer/Where and What": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::EgoExo-Con": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::From My View to Yours/Learning Ego Cues from Exo Video": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::LogFA": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 1,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::VidParse/Egocentric Procedure Parsing": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "eccv2026_egocentric_papers_with_modalities::Moving Beyond More Views": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Egocentric Scene Reconstruction from an Omnidirectional Video": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Korea Advanced Institute of Science and Technology",
+          "countryCode": "KR",
+          "type": "education",
+          "url": "https://openalex.org/I157485424"
+        },
+        {
+          "name": "University of Bath",
+          "countryCode": "GB",
+          "type": "education",
+          "url": "https://openalex.org/I51601045"
+        }
+      ]
+    },
+    "ml_graphics_2022_2026_egodata::UmeTrack: Unified Multi-view End-to-end Hand Tracking for VR": {
+      "citations": {
+        "count": 69,
+        "workTitle": "UmeTrack: Unified multi-view end-to-end hand tracking for VR",
+        "workUrl": "https://doi.org/10.1145/3550469.3555378",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [
+        {
+          "repo": "facebookresearch/UmeTrack",
+          "url": "https://github.com/facebookresearch/UmeTrack",
+          "stars": 119,
+          "forks": 34
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "META Health",
+          "countryCode": "US",
+          "type": "other",
+          "url": "https://openalex.org/I4210128585"
+        }
+      ]
+    },
+    "ml_graphics_2022_2026_egodata::Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views": {
+      "citations": {
+        "count": 22,
+        "workTitle": "Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views",
+        "workUrl": "https://doi.org/10.1145/3610548.3618147",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Seoul National University",
+          "countryCode": "KR",
+          "type": "education",
+          "url": "https://openalex.org/I139264467"
+        },
+        {
+          "name": "Central South University",
+          "countryCode": "CN",
+          "type": "education",
+          "url": "https://openalex.org/I139660479"
+        }
+      ]
+    },
+    "ml_graphics_2022_2026_egodata::EgoAvatar: Egocentric View-Driven and Photorealistic Full-body Avatars": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Max Planck Institute for Informatics",
+          "countryCode": "DE",
+          "type": "facility",
+          "url": "https://openalex.org/I4210109712"
+        },
+        {
+          "name": "Google (United States)",
+          "countryCode": "US",
+          "type": "company",
+          "url": "https://openalex.org/I1291425158"
+        },
+        {
+          "name": "Google (Switzerland)",
+          "countryCode": "CH",
+          "type": "company",
+          "url": "https://openalex.org/I4210100430"
+        }
+      ]
+    },
+    "ml_graphics_2022_2026_egodata::EgoHDM: Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping": {
+      "citations": {
+        "count": 11,
+        "workTitle": "EgoHDM: A Real-time Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System",
+        "workUrl": "https://www.semanticscholar.org/paper/abdf16f22c29744f1b3696b673459bbc4eba1927",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Photoreal Scene Reconstruction from an Egocentric Device": {
+      "citations": {
+        "count": 3,
+        "workTitle": "Photoreal Scene Reconstruction from an Egocentric Device",
+        "workUrl": "https://www.semanticscholar.org/paper/4da45f0dcd4a7be02faadc0100ebed5c08860931",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2025
+      },
+      "github": [
+        {
+          "repo": "facebookresearch/egocentric_splats",
+          "url": "https://github.com/facebookresearch/egocentric_splats",
+          "stars": 147,
+          "forks": 25
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Egocentric 3D Pose Estimation with Temporally Guided Pose Refinement": {
+      "citations": {
+        "count": 0,
+        "workTitle": "Egocentric 3D Pose Estimation with Temporally Guided Pose Refinement",
+        "workUrl": "https://doi.org/10.1145/3757374.3771474",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": [
+        {
+          "name": "Electronics and Telecommunications Research Institute",
+          "countryCode": "KR",
+          "type": "facility",
+          "url": "https://openalex.org/I142401562"
+        }
+      ]
+    },
+    "ml_graphics_2022_2026_egodata::EgoRelight: Egocentric Human Capture and Illumination Recovery for Relightable and Photoreal Avatar Rendering": {
+      "citations": {
+        "count": 0,
+        "workTitle": "EgoRelight: Egocentric Human Capture and Illumination Recovery for Relightable and Photoreal Avatar Rendering",
+        "workUrl": "https://doi.org/10.1145/3811346",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2026
+      },
+      "github": [
+        {
+          "repo": "jcjackch/EgoRelight",
+          "url": "https://github.com/jcjackch/EgoRelight",
+          "stars": 1,
+          "forks": 1
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        {
+          "name": "Max Planck Institute for Informatics",
+          "countryCode": "DE",
+          "type": "facility",
+          "url": "https://openalex.org/I4210109712"
+        },
+        {
+          "name": "Klinikum Saarbrücken",
+          "countryCode": "DE",
+          "type": "healthcare",
+          "url": "https://openalex.org/I4210153150"
+        },
+        {
+          "name": "Google (United States)",
+          "countryCode": "US",
+          "type": "company",
+          "url": "https://openalex.org/I1291425158"
+        },
+        {
+          "name": "Google (Switzerland)",
+          "countryCode": "CH",
+          "type": "company",
+          "url": "https://openalex.org/I4210100430"
+        }
+      ]
+    },
+    "ml_graphics_2022_2026_egodata::Egocentric Video-Language Pretraining (EgoVLP/EgoClip)": {
+      "citations": {
+        "count": 10,
+        "workTitle": "Egocentric Video-Language Pretraining",
+        "workUrl": "https://doi.org/10.52202/068431-0550",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoTaskQA: Understanding Human Tasks in Egocentric Videos": {
+      "citations": {
+        "count": 8,
+        "workTitle": "EgoTaskQA: Understanding Human Tasks in Egocentric Videos",
+        "workUrl": "https://doi.org/10.52202/068431-0242",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EPIC-KITCHENS VISOR": {
+      "citations": {
+        "count": 6,
+        "workTitle": "EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations",
+        "workUrl": "https://doi.org/10.52202/068431-0999",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::ActionSense": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Learning State-Aware Visual Representations from Audible Interactions (RepLAI)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Ego4D Goal-Step": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EPIC Fields": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoTracks": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [
+        {
+          "name": "Object Reprojection Error/EgoStatic",
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/eb206443c93d07da8b1974b768d8a0d4-Abstract-Datasets_and_Benchmarks.html",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        }
+      ],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoSchema": {
+      "citations": {
+        "count": 41,
+        "workTitle": "EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding",
+        "workUrl": "https://doi.org/10.52202/075280-2004",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [
+        {
+          "repo": "egoschema/EgoSchema",
+          "url": "https://github.com/egoschema/EgoSchema",
+          "stars": 118,
+          "forks": 2
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Learning Fine-grained View-Invariant Representations via Temporal Alignment (AE2)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 1,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Look Ma, No Hands! Agent-Environment Factorization": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EmbodiedGPT": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoDistill": {
+      "citations": {
+        "count": 8,
+        "workTitle": "EgoDistill: Egocentric Head Motion Distillation for Efficient Video Understanding",
+        "workUrl": "https://doi.org/10.52202/075280-1455",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Object Reprojection Error/EgoStatic": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::SpotEM: Efficient Video Search for Episodic Memory": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::LIV: Language-Image Representations and Rewards for Robotic Control": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::VIP: Value-Implicit Pre-Training": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::AntGPT": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Multi-Factor Adaptive Vision Selection (MFAS)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::CaptainCook4D": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::E³: Exploring Embodied Emotion": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Exocentric-to-Egocentric Video Generation (Exo2Ego-V)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoChoir": {
+      "citations": {
+        "count": 2,
+        "workTitle": "EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views",
+        "workUrl": "https://doi.org/10.52202/079017-1728",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::DSPoser: Estimating Ego-Body Pose from Doubly Sparse Data": {
+      "citations": {
+        "count": 2,
+        "workTitle": "Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data",
+        "workUrl": "https://doi.org/10.52202/079017-1751",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Do EgoVLMs Truly Understand Hand-Object Interactions? (EgoHOIBench/EgoNCE++)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::DenseGrounding": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoPrivacy": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoVid-5M": {
+      "citations": {
+        "count": 0,
+        "workTitle": "EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Videos Generation",
+        "workUrl": "https://doi.org/10.52202/085713-1480",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoBlind": {
+      "citations": {
+        "count": 1,
+        "workTitle": "EgoBlind: Towards Egocentric Visual Assistance for the Blind",
+        "workUrl": "https://doi.org/10.52202/085713-0886",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::OpenMMEgo/OME10M": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::egoEMOTION": {
+      "citations": {
+        "count": 0,
+        "workTitle": "egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-world Tasks",
+        "workUrl": "https://doi.org/10.52202/085713-4255",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Whole-Body Conditioned Egocentric Video Prediction": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoExoBench": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoDex": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "apple/ml-egodex",
+          "url": "https://github.com/apple/ml-egodex",
+          "stars": 380,
+          "forks": 13
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [
+        {
+          "name": "EgoScale",
+          "url": "https://research.nvidia.com/labs/gear/egoscale/",
+          "basis": "Named in catalog input, output, scale, or access evidence"
+        }
+      ],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoNight": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoBrain": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::ENACT": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoWorld": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoHandICL": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoTwin": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::EgoTactile": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Keep It in Mind: UCS-Bench/DirectMe": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "cocowy1/UCS-Bench",
+          "url": "https://github.com/cocowy1/UCS-Bench",
+          "stars": 34,
+          "forks": 0
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::Ego3S": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "ml_graphics_2022_2026_egodata::MotionGRPO": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Human-to-Robot Imitation in the Wild (WHIRL)": {
+      "citations": {
+        "count": 82,
+        "workTitle": "Human-to-Robot Imitation in the Wild",
+        "workUrl": "https://doi.org/10.15607/rss.2022.xviii.026",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Robotic Telekinesis": {
+      "citations": {
+        "count": 54,
+        "workTitle": "Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube",
+        "workUrl": "https://doi.org/10.15607/rss.2022.xviii.023",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Structured World Models from Human Videos": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::PATO": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::AnyTeleop": {
+      "citations": {
+        "count": 108,
+        "workTitle": "AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System",
+        "workUrl": "https://doi.org/10.15607/rss.2023.xix.015",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware (ALOHA/ACT)": {
+      "citations": {
+        "count": 607,
+        "workTitle": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+        "workUrl": "https://doi.org/10.15607/rss.2023.xix.016",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2023
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::FurnitureBench": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::DROID": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::DexCap": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Universal Manipulation Interface (UMI)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::ScrewMimic": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Vid2Robot": {
+      "citations": {
+        "count": 25,
+        "workTitle": "Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers",
+        "workUrl": "https://doi.org/10.15607/rss.2024.xx.052",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2024
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::RoboCasa": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::SafeMimic": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::You Only Teach Once (YOTO)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Human2LocoMan": {
+      "citations": {
+        "count": 2,
+        "workTitle": "Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining",
+        "workUrl": "https://doi.org/10.15607/rss.2025.xxi.122",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::RoboMIND": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Robot Data Curation with Mutual Information Estimators": {
+      "citations": {
+        "count": 4,
+        "workTitle": "Robot Data Curation with Mutual Information Estimators",
+        "workUrl": "https://doi.org/10.15607/rss.2025.xxi.023",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Curating Demonstrations using Online Experience (Demo-SCORE)": {
+      "citations": {
+        "count": 5,
+        "workTitle": "Curating Demonstrations using Online Experience",
+        "workUrl": "https://doi.org/10.15607/rss.2025.xxi.071",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Physics-Driven Data Generation for Contact-Rich Manipulation": {
+      "citations": {
+        "count": 7,
+        "workTitle": "Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization",
+        "workUrl": "https://doi.org/10.15607/rss.2025.xxi.053",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::REASSEMBLE": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::DOGlove": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Dex1B": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Emergence of Human-to-Robot Transfer in VLAs": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::mimic-video": {
+      "citations": {
+        "count": 0,
+        "workTitle": "mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs",
+        "workUrl": "https://doi.org/10.15607/rss.2026.xxii.077",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::RIO": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Open X-Embodiment/RT-X": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::RH20T": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::RoboAgent/RoboSet": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::InteRACT": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::ForceMimic": {
+      "citations": {
+        "count": 24,
+        "workTitle": "ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation",
+        "workUrl": "https://doi.org/10.1109/icra55743.2025.11128061",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Motion Tracks": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::DART/DexHub": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Robot Utility Models": {
+      "citations": {
+        "count": 9,
+        "workTitle": "Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments",
+        "workUrl": "https://doi.org/10.1109/icra55743.2025.11127857",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::HuDOR": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Robo-DM": {
+      "citations": {
+        "count": 1,
+        "workTitle": "Robo-DM: Data Management for Large Robot Datasets",
+        "workUrl": "https://doi.org/10.1109/icra55743.2025.11128693",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::VITRA": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::FreeTacMan": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "OpenDriveLab/FreeTacMan",
+          "url": "https://github.com/OpenDriveLab/FreeTacMan",
+          "stars": 139,
+          "forks": 11
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Developing VLA Models from Egocentric Videos (egoVLA)": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "Biscue5/egoVLA",
+          "url": "https://github.com/Biscue5/egoVLA",
+          "stars": 4,
+          "forks": 2
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::HAND Me the Data": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::RoboTube": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "haoyu-x/robotube",
+          "url": "https://github.com/haoyu-x/robotube",
+          "stars": 2,
+          "forks": 0
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::VideoDex": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::R3M": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::HERD": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Cross-Domain Transfer via Semantic Skill Imitation": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::MimicPlay": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::MimicGen": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::BridgeData V2": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::XSkill": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::DEFT": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::An Unbiased Look at Datasets for Visuo-Motor Pre-Training": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::OKAMI": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Flow as the Cross-domain Manipulation Interface (Im2Flow2Act)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::MimicTouch": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Open-TeleVision": {
+      "citations": {
+        "count": 0,
+        "workTitle": "OTV | Open Television",
+        "workUrl": "https://doi.org/10.4324/9781003099499-27",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2022
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::ACE": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::OmniH2O": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Object-Centric Dexterous Manipulation from Human Motion Data": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::DexUMI": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Human2Sim2Robot": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::MimicFunc": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "robotics_2022_2026_egodata::Bunny-VisionPro": {
+      "citations": {
+        "count": 28,
+        "workTitle": "Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning",
+        "workUrl": "https://doi.org/10.1109/iros60139.2025.11247017",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EPIC-KITCHENS-100/Rescaling Egocentric Vision": {
+      "citations": {
+        "count": 378,
+        "workTitle": "Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100",
+        "workUrl": "https://doi.org/10.1007/s11263-021-01531-2",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2021
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EgoClip/Egocentric Video-Language Pretraining": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::Aria Everyday Activities (AEA)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::WiLoR: End-to-end 3D Hand Localization and Reconstruction": {
+      "citations": {
+        "count": 45,
+        "workTitle": "WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.01143",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::MoGe: Monocular Geometry Estimation": {
+      "citations": {
+        "count": 66,
+        "workTitle": "MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.00496",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [
+        {
+          "repo": "microsoft/MoGe",
+          "url": "https://github.com/microsoft/MoGe",
+          "stars": 2872,
+          "forks": 221
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EgoMimic": {
+      "citations": {
+        "count": 12,
+        "workTitle": "EgoMimic: Scaling Imitation Learning via Egocentric Video",
+        "workUrl": "https://doi.org/10.1109/icra55743.2025.11127989",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::HaWoR: World-Space Hand Motion Reconstruction": {
+      "citations": {
+        "count": 12,
+        "workTitle": "HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.00175",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::VGGT: Visual Geometry Grounded Transformer": {
+      "citations": {
+        "count": 301,
+        "workTitle": "VGGT: Visual Geometry Grounded Transformer",
+        "workUrl": "https://doi.org/10.1109/cvpr52734.2025.00499",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2025
+      },
+      "github": [
+        {
+          "repo": "facebookresearch/vggt",
+          "url": "https://github.com/facebookresearch/vggt",
+          "stars": 14324,
+          "forks": 1541
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos": {
+      "citations": {
+        "count": 132,
+        "workTitle": "EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos",
+        "workUrl": "https://www.semanticscholar.org/paper/715a1b6849fdc3388f5267b9cc77f94f1e9f1ad0",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2025
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::OpenEgo": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::Egocentric-100K (Build)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [
+        {
+          "repo": "builddotai/Egocentric-100K",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/builddotai/Egocentric-100K",
+          "downloads30d": 162872,
+          "likes": 135
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::World In Your Hands (WiYH)": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "tars-robotics/World-In-Your-Hands",
+          "url": "https://github.com/tars-robotics/World-In-Your-Hands",
+          "stars": 128,
+          "forks": 2
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::DreamDojo/DreamDojo-HV": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "NVIDIA/DreamDojo",
+          "url": "https://github.com/NVIDIA/DreamDojo",
+          "stars": 1068,
+          "forks": 77
+        }
+      ],
+      "huggingFace": [
+        {
+          "repo": "nvidia/DreamDojo",
+          "type": "model",
+          "url": "https://huggingface.co/nvidia/DreamDojo",
+          "downloads30d": 123,
+          "likes": 39
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        {"name": "NVIDIA", "countryCode": "US", "type": "company", "url": "https://www.nvidia.com/"},
+        {"name": "Hong Kong University of Science and Technology", "countryCode": "HK", "type": "education", "url": "https://hkust.edu.hk/"},
+        {"name": "University of California, Berkeley", "countryCode": "US", "type": "education", "url": "https://www.berkeley.edu/"},
+        {"name": "University of Washington", "countryCode": "US", "type": "education", "url": "https://www.washington.edu/"},
+        {"name": "Stanford University", "countryCode": "US", "type": "education", "url": "https://www.stanford.edu/"},
+        {"name": "Korea Advanced Institute of Science and Technology", "countryCode": "KR", "type": "education", "url": "https://www.kaist.ac.kr/"}
+      ]
+    },
+    "supplemental_releases_2022_2026::EgoScale": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EgoAVFlow: Robot Policy Learning with Active Vision from Human Egocentric Videos via 3D Flow": {
+      "citations": {
+        "count": 5,
+        "workTitle": "EgoAVFlow: Robot Policy Learning With Active Vision From Human Egocentric Videos via 3D Flow",
+        "workUrl": "https://www.semanticscholar.org/paper/b0e7ee0f59f17046a5dc654f88c0fbc83f3dd6d3",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations": {
+      "citations": {
+        "count": 20,
+        "workTitle": "HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations",
+        "workUrl": "https://www.semanticscholar.org/paper/9c19e52f3dcd1cd0a617923073adf4547a58d084",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 2,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "mujc2021/DexImit-Open",
+          "url": "https://github.com/mujc2021/DexImit-Open",
+          "stars": 23,
+          "forks": 1
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::Xperience-10M": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [
+        {
+          "repo": "ropedia-ai/xperience-10m",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/ropedia-ai/xperience-10m",
+          "downloads30d": 101634,
+          "likes": 244
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EgoVerse": {
+      "citations": {
+        "count": 0,
+        "workTitle": "EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World",
+        "workUrl": "https://doi.org/10.15607/rss.2026.xxii.092",
+        "confidence": "high",
+        "source": "Crossref",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EgoLive/JoyEgoCam": {
+      "citations": {
+        "count": 10,
+        "workTitle": "EgoLive: A Large-Scale Egocentric Dataset from Real-World Human Tasks",
+        "workUrl": "https://www.semanticscholar.org/paper/1158eaef6deb3a8a16267d0dae5936ec30f29f17",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::MobileEgo Anywhere/STERA/STERA-10M": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [
+        {
+          "repo": "fpvlabs/stera-10m",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/fpvlabs/stera-10m",
+          "downloads30d": 18933,
+          "likes": 85
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::HumanNet": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::HumanEgo": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding": {
+      "citations": {
+        "count": 0,
+        "workTitle": "BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding",
+        "workUrl": "https://www.semanticscholar.org/paper/06a3dcba45ac26fcc81a994ccc2221dad6924e65",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [
+        {
+          "repo": "Ramblr-GmbH/BARISTA",
+          "url": "https://github.com/Ramblr-GmbH/BARISTA",
+          "stars": 3,
+          "forks": 0
+        }
+      ],
+      "huggingFace": [
+        {
+          "repo": "ramblr/BARISTA",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/ramblr/BARISTA",
+          "downloads30d": 525,
+          "likes": 3
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::TouchAnything/EgoTouch": {
+      "citations": {
+        "count": 4,
+        "workTitle": "TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video",
+        "workUrl": "https://www.semanticscholar.org/paper/eb018f6dc8fcd0e0fd6a47bcd1a581a4b4d5f188",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [
+        {
+          "repo": "Jianyi2004/TouchAnything",
+          "url": "https://github.com/Jianyi2004/TouchAnything",
+          "stars": 81,
+          "forks": 5
+        }
+      ],
+      "huggingFace": [
+        {
+          "repo": "zhenyuxie-zhzh/EgoTouch_hdf5",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/zhenyuxie-zhzh/EgoTouch_hdf5",
+          "downloads30d": 2361,
+          "likes": 3
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation": {
+      "citations": {
+        "count": 1,
+        "workTitle": "EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation",
+        "workUrl": "https://www.semanticscholar.org/paper/17a7f4c256f1100b4d3e8e5c0fb6b1391880b5e0",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [
+        {
+          "repo": "EgoInteract/EgoInteract",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/EgoInteract/EgoInteract",
+          "downloads30d": 882,
+          "likes": 0
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::Do As I Do: Dexterous Manipulation Data from Everyday Human Videos": {
+      "citations": {
+        "count": 6,
+        "workTitle": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+        "workUrl": "https://www.semanticscholar.org/paper/68bc4c450196a4e203c5f9bcd71781fef3fc7b18",
+        "confidence": "high",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [
+        {
+          "repo": "malik-group/do-as-i-do",
+          "url": "https://github.com/malik-group/do-as-i-do",
+          "stars": 389,
+          "forks": 41
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::ABC-130K/Scalable Behavior Cloning with Open Data, Training, and Evaluation": {
+      "citations": {
+        "count": 4,
+        "workTitle": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+        "workUrl": "https://www.semanticscholar.org/paper/f063ad0ced3448b9c78b906a0c3384be57f58ef8",
+        "confidence": "medium",
+        "source": "Semantic Scholar",
+        "publicationYear": 2026
+      },
+      "github": [],
+      "huggingFace": [
+        {
+          "repo": "XDOF/ABC-130k",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/XDOF/ABC-130k",
+          "downloads30d": 310006,
+          "likes": 107
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::ActiveMimic: Egocentric Video Pretraining with Active Perception": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::Open-AoE-2000H": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "ant-research/Open-AoE",
+          "url": "https://github.com/ant-research/Open-AoE",
+          "stars": 163,
+          "forks": 5
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::Ego2Robot": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::RekaDaily-10k (raw)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [
+        {
+          "repo": "RekaAI/RekaDaily-10k-raw",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw",
+          "downloads30d": 241386,
+          "likes": 16
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::Gen-EgoData (public sample)": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [
+        {
+          "repo": "genrobot2025/Gen-EgoData",
+          "type": "dataset",
+          "url": "https://huggingface.co/datasets/genrobot2025/Gen-EgoData",
+          "downloads30d": 1726,
+          "likes": 36
+        }
+      ],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::EgoSuite-Open100K": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::ACE-Ego-Hand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery": {
+      "citations": null,
+      "github": [
+        {
+          "repo": "ggxxii/ACE-Ego-Hand",
+          "url": "https://github.com/ggxxii/ACE-Ego-Hand",
+          "stars": 37,
+          "forks": 0
+        }
+      ],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": [
+        "Shanghai Jiao Tong University",
+        "Nanyang Technological University",
+        "The Chinese University of Hong Kong",
+        "ACE Robotics"
+      ]
+    },
+    "supplemental_releases_2022_2026::HomER v2: Home Egocentric Robotics Dataset": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [{"repo":"toloka/homer-v2","type":"dataset","url":"https://huggingface.co/datasets/toloka/homer-v2","downloads30d":257,"likes":5}],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::UniData Egocentric Dataset for Physical AI and Robotics": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [{"repo":"UnidataRobotics/egocentric-video","type":"dataset","url":"https://huggingface.co/datasets/UnidataRobotics/egocentric-video","downloads30d":46,"likes":1}],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::Humanola Egocentric Hand-Pose Sample": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [{"repo":"humanola-inc/egocentric-sample","type":"dataset","url":"https://huggingface.co/datasets/humanola-inc/egocentric-sample","downloads30d":427,"likes":1}],
+      "usedBy": [],
+      "evidenceScore": 4,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::GEN-1: Towards Machines with a Thousand Hands": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    },
+    "supplemental_releases_2022_2026::GEN-1.5: Embodied Foundation Models are One-Shot Learners": {
+      "citations": null,
+      "github": [],
+      "huggingFace": [],
+      "usedBy": [],
+      "evidenceScore": 3,
+      "institutions": []
+    }
+  }
+}
