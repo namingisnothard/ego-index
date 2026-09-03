@@ -4,7 +4,7 @@ A compact, source-linked directory of egocentric datasets, pipelines, general mo
 
 ## Catalog
 
-The canonical library is `app/catalog.json`. Each record has a stable `id` and embeds its tags, release/access/scale metadata, citations and repository signals, institutions, and source-owned visual metadata.
+The canonical library is `app/catalog.json`, supplemented by the comparison-table records in `app/table-additions.ts`. Each record has a stable `id` and embeds its tags, release/access/scale metadata, citations and repository signals, institutions, and source-owned visual metadata.
 
 ## Development
 

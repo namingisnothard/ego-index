@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "fieldGuide": {
     "id": "Stable key: <collection>::<name>; used by saved marks, likes, impact and teaser metadata.",
     "kinds": "One or more roles: Dataset, Pipeline, General model, Policy, Organization or Person.",

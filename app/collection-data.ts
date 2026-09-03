@@ -132,6 +132,7 @@ export type Collection = {
 };
 
 import catalogData from './catalog.json';
+import {tableAdditions} from './table-additions';
 
 function clean(value = '') {
   return value.replace(/<br\s*\/?>/gi, ' · ').replace(/[`*]/g, '').replace(/\\\|/g, '|').replace(/\s*\/\s*/g, '/').trim();
@@ -1027,7 +1028,7 @@ function rowsFromMarkdown(id: string, markdown: string, title: string): LibraryE
   return entries;
 }
 
-export const entries = catalogData.records as unknown as LibraryEntry[];
+export const entries = [...catalogData.records, ...tableAdditions] as unknown as LibraryEntry[];
 export const collections: Collection[] = Array.from(new Set(entries.map((entry) => entry.collection))).map((id) => {
   const collectionEntries = entries.filter((entry) => entry.collection === id);
   return {
